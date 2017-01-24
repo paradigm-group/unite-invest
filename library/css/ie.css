@@ -1,5 +1,5 @@
 /******************************************************************
-Site Name:
+Site Name: Unite Invest
 Author: Jack Machin
 
 Stylesheet: IE Stylesheet
@@ -165,7 +165,7 @@ do they need tweaking?
 */
 /* end .footer-links */
 /******************************************************************
-Site Name:
+Site Name: Unite Invest
 Author: Jack Machin
 
 Stylesheet: Tablet & Small Desktop Stylesheet
@@ -180,6 +180,9 @@ come into play. Have fun!
 /*********************
 GENERAL STYLES
 *********************/
+.container {
+  width: 750px; }
+
 /*********************
 HEADER STYLES
 *********************/
