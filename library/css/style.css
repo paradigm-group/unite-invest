@@ -3003,7 +3003,10 @@ h3,
 h4,
 h5 {
   text-rendering: optimizelegibility;
+  font-family: inherit;
   font-weight: 500;
+  line-height: 1.1;
+  color: inherit;
   /*
 	if you're going to use webfonts, be sure to check your weights
 	http://css-tricks.com/watch-your-font-weight/
@@ -3021,9 +3024,7 @@ h1 {
   line-height: 1.333em; }
 
 h2 {
-  font-size: 1.75em;
-  line-height: 1.4em;
-  margin-bottom: 0.375em; }
+  font-size: 30px; }
 
 h3 {
   font-size: 1.125em; }
@@ -3100,6 +3101,24 @@ POSTS & CONTENT STYLES
 *********************/
 .content {
   padding: 60px 15px 75px; }
+
+.content-title {
+  text-align: center;
+  position: relative;
+  margin-bottom: 30px;
+  padding-bottom: 15px;
+  margin-top: 0; }
+
+.content-title:after {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 40px;
+  background: #242a30;
+  height: 2px;
+  bottom: 0;
+  left: 50%;
+  margin-left: -20px; }
 
 /* end .hentry */
 .single-title,
