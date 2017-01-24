@@ -2998,6 +2998,10 @@ FOOTER STYLES
   border-color: #4DCACA #31A3A3 #1D8888;
   border-radius: 4px; }
 
+.social-list {
+  margin: 30px 0 0;
+  font-size: 20px; }
+
 /*********************
 LARGER MOBILE DEVICES
 This is for devices like the Galaxy Note or something that's
