@@ -1196,7 +1196,7 @@ FOOTER STYLES
 .footer-brand-logo {
   display: block;
   margin: 0 auto 10px;
-  width: 40px;
+  width: 0px;
   border: 20px solid;
   border-color: #4DCACA #31A3A3 #1D8888;
   border-radius: 4px; }

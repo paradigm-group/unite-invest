@@ -5,7 +5,7 @@
                         <div class="footer-brand-logo"></div>
                         Unite Invest
                     </div>
-                    <p class="source-org copyright">&copy; <?php echo date('Y'); ?> <?php bloginfo( 'name' ); ?>.</p>
+                    <p class="source-org copyright">&copy; <?php bloginfo( 'name' ); ?> <?php echo date('Y'); ?>.</p>
                     <p>Our difference is you.</p>
                     <p class="social-list">
                         <a href="#"><i class="fa fa-facebook fa-fw"></i></a>
