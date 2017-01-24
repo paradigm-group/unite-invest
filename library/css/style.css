@@ -894,6 +894,9 @@ Stylesheet: Layout Stylesheet
   .col-lg-offset-0 {
     margin-left: 0; } }
 
+.row > [class*=col-] {
+  padding: 0 10px; }
+
 /******************************************************************
 Site Name:
 Author: Jack Machin
@@ -3119,6 +3122,11 @@ POSTS & CONTENT STYLES
   bottom: 0;
   left: 50%;
   margin-left: -20px; }
+
+.content-desc {
+  text-align: center;
+  margin-bottom: 60px;
+  color: #242a30; }
 
 /* end .hentry */
 .single-title,

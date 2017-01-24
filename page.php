@@ -16,7 +16,7 @@ sed bibendum turpis luctus eget</p>
                 </div>
 
                 <div class="col-md-6 form-col fadeInRight">
-                    Form
+                    <?php gravity_form( 1, false, false, false, '', false ); ?>
                 </div>
             </div>
         </div>

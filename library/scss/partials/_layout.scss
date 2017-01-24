@@ -871,3 +871,7 @@ Stylesheet: Layout Stylesheet
         margin-left: 0
     }
 }
+
+.row>[class*=col-] {
+    padding: 0 10px;
+}
