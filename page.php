@@ -8,10 +8,10 @@ sed bibendum turpis luctus eget</p>
 
             <div class="row">
                 <div class="col-md-6 fadeInLeft">
-                    <p><i class="fa fa-phone-square fa-fw">Call:</p>
-                    <p><i class="fa fa-envelope fa-fw">Email:</p>
-                    <p><i class="fa fa-map-marker fa-fw"> Address:</p>
-                    <p><i class="fa fa-twitter fa-fw"> Twitter: <a href="https://twitter.com/unite_invest">@unite_invest</a></p>
+                    <p><i class="fa fa-phone-square fa-fw"></i> Call:</p>
+                    <p><i class="fa fa-envelope fa-fw"></i> Email:</p>
+                    <p><i class="fa fa-map-marker fa-fw"></i> Address:</p>
+                    <p><i class="fa fa-twitter fa-fw"></i> Twitter: <a href="https://twitter.com/unite_invest">@unite_invest</a></p>
                 </div>
 
                 <div class="col-md-6 form-col fadeInRight">
