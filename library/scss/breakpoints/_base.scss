@@ -983,14 +983,20 @@ FOOTER STYLES
     -webkit-box-shadow: inset 0 100px 80px -80px rgba(0,0,0,.7)
 }
 
-	.footer-links {
+    .footer-brand {
+        font-size: 24px;
+        color: #fff;
+        font-weight: 300;
+        margin-bottom: 30px;
+    }
 
-		ul {
-
-			li {}
-
-		}
-
-	} /* end .footer-links */
+        .footer-brand-logo {
+            display: block;
+            margin: 0 auto 10px;
+            width: 40px;
+            border: 20px solid;
+            border-color: #4DCACA #31A3A3 #1D8888;
+            border-radius: 4px;
+        }
 
 	.copyright {}
