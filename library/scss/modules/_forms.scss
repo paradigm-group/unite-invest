@@ -59,3 +59,7 @@ textarea,
     background-color: lighten($gray, 4%);
     } // end hover or focus
 }
+
+.gform_wrapper .gfield_required {
+    color:#00acac;
+}

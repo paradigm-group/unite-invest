@@ -2900,6 +2900,9 @@ textarea,
   .field:active {
     background-color: #f7f8fa; }
 
+.gform_wrapper .gfield_required {
+  color: #00acac; }
+
 /*********************
 BASE (MOBILE) SIZE
 This are the mobile styles. It's what people see on their phones. If
