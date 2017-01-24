@@ -10,7 +10,7 @@
                     <p class="social-list">
                         <a href="#"><i class="fa fa-facebook fa-fw"></i></a>
                         <a href="#"><i class="fa fa-instagram fa-fw"></i></a>
-                        <a href="#"><i class="fa fa-twitter fa-fw"></i></a>
+                        <a href="https://twitter.com/unite_invest"><i class="fa fa-twitter fa-fw"></i></a>
                         <a href="#"><i class="fa fa-google-plus fa-fw"></i></a>
                         <a href="#"><i class="fa fa-dribbble fa-fw"></i></a>
                     </p>
