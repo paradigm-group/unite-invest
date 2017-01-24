@@ -2901,7 +2901,7 @@ textarea,
     background-color: #f7f8fa; }
 
 .gform_wrapper .gfield_required {
-  color: #00acac; }
+  color: #00acac !important; }
 
 /*********************
 BASE (MOBILE) SIZE
