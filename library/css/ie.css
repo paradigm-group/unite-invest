@@ -283,7 +283,7 @@ mobile. Make sure to double check these!
 
 /* end .footer-links */
 /******************************************************************
-Site Name:
+Site Name: Unite Invest
 Author: Jack Machin
 
 Stylesheet: Desktop Stylsheet
@@ -292,6 +292,9 @@ This is the desktop size. It's larger than an iPad so it will only
 be seen on the Desktop.
 
 ******************************************************************/
+.container {
+  width: 970px; }
+
 /*
 you can call the larger styles if you want, but there's really no need
 */

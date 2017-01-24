@@ -1408,7 +1408,7 @@ you can add resource intensive styles.
 *********************/
 @media only screen and (min-width: 1030px) {
   /******************************************************************
-Site Name:
+Site Name: Unite Invest
 Author: Jack Machin
 
 Stylesheet: Desktop Stylsheet
@@ -1416,7 +1416,9 @@ Stylesheet: Desktop Stylsheet
 This is the desktop size. It's larger than an iPad so it will only
 be seen on the Desktop.
 
-******************************************************************/ }
+******************************************************************/
+  .container {
+    width: 970px; } }
 
 /*********************
 LARGE VIEWING SIZE
