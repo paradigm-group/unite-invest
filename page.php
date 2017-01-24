@@ -1,48 +1,24 @@
 <?php get_header(); ?>
 
-    <div class="content">
+    <div id="contact bg-silver-lighter">
+        <div class="container">
+            <h2 class="content-title">Contact Us</h2>
+            <p class="content-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur eros dolor,
+sed bibendum turpis luctus eget</p>
 
-        <div id="inner-content" class="container">
+            <div class="row">
+                <div class="col-md-6 fadeInLeft">
+                    <p><i class="fa fa-phone-square fa-fw">Call:</p>
+                    <p><i class="fa fa-envelope fa-fw">Email:</p>
+                    <p><i class="fa fa-map-marker fa-fw"> Address:</p>
+                    <p><i class="fa fa-twitter fa-fw"> Twitter: <a href="https://twitter.com/unite_invest">@unite_invest</a></p>
+                </div>
 
-            <div class="full" role="main">
-
-                <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
-
-                <article id="post-<?php the_ID(); ?>" <?php post_class(); ?> role="article" itemscope itemtype="http://schema.org/BlogPosting">
-
-                    <header class="article-header">
-
-                        <h1 class="entry-title single-title" itemprop="headline">
-                            <a href="<?php the_permalink() ?>" rel="bookmark" title="<?php the_title_attribute(); ?>"><?php the_title(); ?></a>
-                        </h1>
-
-                    </header> <?php // end article header ?>
-
-                    <div class="entry-content" itemprop="articleBody">
-                        <?php
-                            // the content (pretty self explanatory huh)
-                            the_content();
-                        ?>
-                    </div> <?php // end article section ?>
-
-                    <footer class="article-footer">
-
-                    </footer> <?php // end article footer ?>
-
-                </article>
-
-            <?php endwhile; else : ?>
-
-                <?php get_template_part ('partials/no-post-found');?>
-
-            <?php endif; ?>
-
+                <div class="col-md-6 form-col fadeInRight">
+                    Form
+                </div>
             </div>
-
-            <?php// get_sidebar(); ?>
-
         </div>
-
     </div>
 
 <?php get_footer(); ?>
