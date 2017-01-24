@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-    <div id="contact bg-silver-lighter">
+    <div id="contact" class="content bg-silver-lighter">
         <div class="container">
             <h2 class="content-title">Contact Us</h2>
             <p class="content-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur eros dolor,
