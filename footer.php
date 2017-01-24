@@ -1,12 +1,12 @@
 			<footer class="footer" role="contentinfo">
 
 				<div id="inner-footer" class="container">
-                <div class="footer-brand">
-                    <div class="footer-brand-logo"></div>
-                    Unite Invest
-                </div>
-                <p class="source-org copyright">&copy; <?php echo date('Y'); ?> <?php bloginfo( 'name' ); ?>.</p>
-                <p>Our difference is you.</p>
+                    <div class="footer-brand">
+                        <div class="footer-brand-logo"></div>
+                        Unite Invest
+                    </div>
+                    <p class="source-org copyright">&copy; <?php echo date('Y'); ?> <?php bloginfo( 'name' ); ?>.</p>
+                    <p>Our difference is you.</p>
                     <p class="social-list">
                         <a href="#"><i class="fa fa-facebook fa-fw"></i></a>
                         <a href="#"><i class="fa fa-instagram fa-fw"></i></a>
@@ -15,8 +15,7 @@
                         <a href="#"><i class="fa fa-dribbble fa-fw"></i></a>
                     </p>
 
-
-				</div>
+                </div>
 
 			</footer>
 
