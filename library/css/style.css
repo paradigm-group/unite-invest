@@ -2274,7 +2274,7 @@ Here's a quick video to show how it works:
 http://www.youtube.com/watch?v=hwdVpKiJzac
 
 *********************/
-.blue-btn, .comment-reply-link, #submit {
+.blue-btn {
   display: inline-block;
   position: relative;
   text-decoration: none;
@@ -2289,10 +2289,10 @@ http://www.youtube.com/watch?v=hwdVpKiJzac
   cursor: pointer;
   -webkit-transition: background-color 0.14s ease-in-out;
   transition: background-color 0.14s ease-in-out; }
-  .blue-btn:hover, .comment-reply-link:hover, #submit:hover, .blue-btn:focus, .comment-reply-link:focus, #submit:focus {
+  .blue-btn:hover, .blue-btn:focus {
     color: #fff;
     text-decoration: none; }
-  .blue-btn:active, .comment-reply-link:active, #submit:active {
+  .blue-btn:active {
     top: 1px; }
 
 /*
@@ -2300,11 +2300,11 @@ An example button.
 You can use this example if you want. Just replace all the variables
 and it will create a button dependant on those variables.
 */
-.blue-btn, .comment-reply-link, #submit {
+.blue-btn {
   background-color: #2980b9; }
-  .blue-btn:hover, .comment-reply-link:hover, #submit:hover, .blue-btn:focus, .comment-reply-link:focus, #submit:focus {
+  .blue-btn:hover, .blue-btn:focus {
     background-color: #2574a8; }
-  .blue-btn:active, .comment-reply-link:active, #submit:active {
+  .blue-btn:active {
     background-color: #2472a4; }
 
 /******************************************************************
@@ -2592,18 +2592,8 @@ and more scalable.
 /*********************
 POSTS & CONTENT STYLES
 *********************/
-.hentry {
-  background-color: #fff;
-  border-radius: 3px;
-  border: 1px solid #ccc; }
-  .hentry header {
-    border-bottom: 1px solid #f8f9fa;
-    padding: 1.5em; }
-  .hentry footer {
-    padding: 1.5em;
-    border-top: 1px solid #f8f9fa; }
-    .hentry footer p {
-      margin: 0; }
+.content {
+  padding: 60px 15px 75px; }
 
 /* end .hentry */
 .single-title,
@@ -2621,14 +2611,8 @@ POSTS & CONTENT STYLES
 /* style by category (i.e. category-videos) */
 /* style by tag (i.e. tag-news) */
 /* post meta */
-.byline {
-  color: #9fa6b4;
-  font-style: italic;
-  margin: 0; }
-
 /* entry content */
 .entry-content {
-  padding: 0 1.5em 0;
   /*
         image alignment on a screen this size may be
         a bit difficult. It's set to start aligning
@@ -2767,199 +2751,6 @@ PAGE NAVI STYLES
   float: right; }
 
 /* end .wp-prev-next */
-/******************************************************************
-COMMENT STYLES
-******************************************************************/
-/* h3 comment title */
-#comments-title {
-  padding: 0.75em;
-  margin: 0;
-  border-top: 1px solid #f8f9fa;
-  /* number of comments span */ }
-
-.commentlist {
-  margin: 0;
-  list-style-type: none; }
-
-.comment {
-  position: relative;
-  clear: both;
-  overflow: hidden;
-  padding: 1.5em;
-  border-bottom: 1px solid #f8f9fa;
-  /* vcard */
-  /* end .commentlist .vcard */
-  /* end children */
-  /* general comment classes */ }
-  .comment .comment-author {
-    padding: 7px;
-    border: 0; }
-  .comment .vcard {
-    margin-left: 50px; }
-    .comment .vcard cite.fn {
-      font-weight: 700;
-      font-style: normal; }
-    .comment .vcard time {
-      display: block;
-      font-size: 0.9em;
-      font-style: italic; }
-      .comment .vcard time a {
-        color: #9fa6b4;
-        text-decoration: none; }
-        .comment .vcard time a:hover {
-          text-decoration: underline; }
-    .comment .vcard .avatar {
-      position: absolute;
-      left: 16px;
-      border-radius: 50%; }
-  .comment:last-child {
-    margin-bottom: 0; }
-  .comment .children {
-    margin: 0;
-    /* variations */
-    /* change number for different depth */ }
-  .comment[class*=depth-] {
-    margin-top: 1.1em; }
-  .comment.depth-1 {
-    margin-left: 0;
-    margin-top: 0; }
-  .comment:not(.depth-1) {
-    margin-top: 0;
-    margin-left: 7px;
-    padding: 7px; }
-  .comment.odd {
-    background-color: #fff; }
-  .comment.even {
-    background: #f8f9fa; }
-
-/* comment meta */
-/* comment content */
-.comment_content {
-  /*
-        image alignment on a screen this size may be
-        a bit difficult. It's set to start aligning
-        and floating images at the next breakpoint,
-        but it's up to you. Feel free to change it up.
-        */ }
-  .comment_content p {
-    margin: 0.7335em 0 1.5em;
-    font-size: 1em;
-    line-height: 1.5em; }
-  .comment_content ul,
-  .comment_content ol {
-    margin-left: 2em; }
-  .comment_content ul {
-    list-style-type: disc; }
-  .comment_content ol {
-    list-style-type: decimal; }
-  .comment_content table {
-    width: 100%;
-    border: 1px solid #eaedf2; }
-    .comment_content table caption {
-      margin: 0 0 7px;
-      font-size: 0.75em;
-      color: #9fa6b4;
-      text-transform: uppercase;
-      letter-spacing: 1px; }
-  .comment_content tr {
-    border-bottom: 1px solid #eaedf2; }
-    .comment_content tr:nth-child(even) {
-      background-color: #f8f9fa; }
-  .comment_content td {
-    padding: 7px;
-    border-right: 1px solid #eaedf2; }
-    .comment_content td:last-child {
-      border-right: 0; }
-  .comment_content th {
-    background-color: #f8f9fa;
-    border-bottom: 1px solid #eaedf2;
-    border-right: 1px solid #eaedf2; }
-    .comment_content th:last-child {
-      border-right: 0; }
-  .comment_content blockquote {
-    padding: 0 0 0 0.75em;
-    border-left: 3px solid #2980b9;
-    font-style: italic;
-    color: #9fa6b4; }
-  .comment_content dd {
-    margin-left: 0;
-    font-size: 0.9em;
-    color: #787878; }
-  .comment_content img {
-    max-width: 100%;
-    height: auto; }
-  .comment_content .size-auto,
-  .comment_content .size-full,
-  .comment_content .size-large,
-  .comment_content .size-medium,
-  .comment_content .size-thumbnail {
-    max-width: 100%;
-    height: auto; }
-  .comment_content pre {
-    background: #323944;
-    color: #f8f9fa;
-    font-size: 0.9em;
-    padding: 1.5em;
-    border-radius: 3px; }
-
-/* end .commentlist .comment_content */
-/* comment reply link */
-.comment-reply-link {
-  font-size: 0.9em;
-  float: right; }
-
-/* end .commentlist .comment-reply-link */
-/* edit comment link */
-.comment-edit-link {
-  font-style: italic;
-  margin: 0 7px;
-  text-decoration: none;
-  font-size: 0.9em; }
-
-/******************************************************************
-COMMENT FORM STYLES
-******************************************************************/
-.comment-respond {
-  padding: 1.5em;
-  border-top: 1px solid #f8f9fa; }
-
-#reply-title {
-  margin: 0; }
-
-.logged-in-as {
-  color: #9fa6b4;
-  font-style: italic;
-  margin: 0; }
-  .logged-in-as a {
-    color: #707478; }
-
-.comment-form-comment {
-  margin: 1.5em 0 0.75em; }
-
-.form-allowed-tags {
-  padding: 1.5em;
-  background-color: #f8f9fa;
-  font-size: 0.9em; }
-
-/* comment submit button */
-#submit {
-  float: right;
-  font-size: 1em; }
-
-/* comment form title */
-#comment-form-title {
-  margin: 0 0 1.1em; }
-
-/* cancel comment reply link */
-/* logged in comments */
-/* allowed tags */
-#allowed_tags {
-  margin: 1.5em 10px 0.7335em 0; }
-
-/* no comments */
-.nocomments {
-  margin: 0 20px 1.1em; }
-
 /*********************
 SIDEBARS & ASIDES
 *********************/

@@ -12,6 +12,7 @@ sed bibendum turpis luctus eget</p>
                     <p><i class="fa fa-envelope fa-fw"></i> Email:</p>
                     <p><i class="fa fa-map-marker fa-fw"></i> Address:</p>
                     <p><i class="fa fa-twitter fa-fw"></i> Twitter: <a href="https://twitter.com/unite_invest">@unite_invest</a></p>
+                    <p><i class="fa fa-twitter fa-fw"></i> Opening Hours: Monday - Friday 9am - 5pm</p>
                 </div>
 
                 <div class="col-md-6 form-col fadeInRight">
