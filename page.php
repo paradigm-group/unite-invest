@@ -1,9 +1,22 @@
 <?php get_header(); ?>
+    <div id="why" class="content">
+        <div class="container">
+            <h2 class="content-title">Why Chose Unite</h2>
+        </div>
+    </div>
+
+    <div id="what" class="content">
+        <div class="container">
+           <h2 class="content-title">What We Do</h2>
+        </div>
+    </div>
+
     <div id="join" class="content">
         <div class="container">
            <h2 class="content-title">Join Unite</h2>
         </div>
     </div>
+
     <div id="contact" class="content bg-silver-lighter">
         <div class="container">
             <h2 class="content-title">Contact Us</h2>
