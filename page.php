@@ -118,7 +118,7 @@ sed bibendum turpis luctus eget</p>
                         <!-- begin team -->
                         <div class="team">
                             <div class="image flipInX contentAnimated finishAnimated" data-animation="true" data-animation-type="flipInX">
-                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/lothar.jpg" alt="Ryan Teller">
+                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Lothar-1-e1485874613560.jpg" alt="Ryan Teller">
                             </div>
                             <div class="info">
                                 <h3 class="name">Lothar Mentel</h3>
