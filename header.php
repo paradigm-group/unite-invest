@@ -40,19 +40,19 @@
 
         <header class="header" role="banner">
 
-            <div id="inner-header" class="navbar navbar-transparent navbar-fixed-top">
+            <div id="inner-header" class="container container-header navbar navbar-transparent navbar-fixed-top">
 
                 <div class="logo-container">
                     <?php // to use a image just replace the bloginfo('name') with your img src and remove the surrounding <p> ?>
                     <p class="brand-text"><a href="<?php echo home_url(); ?>" rel="nofollow"><span class="brand-logo"></span><span class="text-theme">Unite</span> Invest</a></p>
                 </div>
 
-            </div>
+
 
             <nav role="navigation" class="navigation">
 
                 <?php wp_nav_menu(array(
-                    'container' => 'div',                           // remove nav container
+                    'container' => 'false',                           // remove nav container
                     'container_class' => 'container',                 // class of container (should you choose to use it)
                     'menu' => __( 'Main', 'bonestheme' ),  // nav name
                     'menu_class' => 'nav top-nav',               // adding custom nav class
@@ -66,5 +66,5 @@
                 )); ?>
 
             </nav>
-
+        </div>
         </header>
