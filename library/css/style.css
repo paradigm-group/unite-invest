@@ -3051,7 +3051,7 @@ HEADER STYLES
 .header {
   background-color: #fff; }
 
-.logo {
+.brand-logo {
   float: left;
   border: 15px solid;
   border-color: #4DCACA #31A3A3 #1D8888;
@@ -3059,7 +3059,7 @@ HEADER STYLES
   margin-top: -5px;
   border-radius: 4px; }
 
-.logo + .brand-text {
+.brand-text {
   margin-left: 42px;
   color: #2d353c;
   font-size: 20px;
