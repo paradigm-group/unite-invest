@@ -168,7 +168,7 @@ HEADER STYLES
 		a {}
 
 	}
-.brand-logo {
+.logo {
     float: left;
     border: 15px solid;
     border-color: #4DCACA #31A3A3 #1D8888;
@@ -177,7 +177,7 @@ HEADER STYLES
     border-radius: 4px;
 }
 
-    .brand-logo+.brand-text {
+    .logo+.brand-text {
         margin-left: 42px;
         color: #2d353c;
         font-size: 20px;
