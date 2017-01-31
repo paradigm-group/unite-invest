@@ -139,7 +139,7 @@ sed bibendum turpis luctus eget</p>
                         <!-- begin team -->
                         <div class="team">
                             <div class="image flipInX contentAnimated finishAnimated" data-animation="true" data-animation-type="flipInX">
-                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Jerry-1.png" alt="Jonny Cash">
+                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Jerry-1-e1485874267273.png" alt="Jonny Cash">
                             </div>
                             <div class="info">
                                 <h3 class="name">Jerry Hogarth</h3>
