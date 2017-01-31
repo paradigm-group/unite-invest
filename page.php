@@ -17,10 +17,10 @@
             <ul class="pricing-table col-4">
                     <li data-animation="true" data-animation-type="fadeInUp" class="fadeInUp contentAnimated finishAnimated">
                         <div class="pricing-container">
-                            <h3>Starter</h3>
+                            <h3>Software and Support</h3>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span class="price-number">Software and Support</span>
+                                    <span class="price-number">PRICE</span>
                                 </div>
                             </div>
                             <ul class="features">
