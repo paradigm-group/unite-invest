@@ -11,6 +11,7 @@
         </div>
     </div>
 <div id="join">
+    <h2 class="content-title">Meet the Team</h2>
     <div id="pricing" class="content">
         <div class="container">
            <h2 class="content-title">Pricing</h2>
@@ -108,7 +109,7 @@ sed bibendum turpis luctus eget</p>
     </div>
     <div id="team" class="content">
         <div class="container">
-                <h2 class="content-title">Our Team</h2>
+                <h2 class="content-title">Meet the Team</h2>
                 <p class="content-desc">
                     Phasellus suscipit nisi hendrerit metus pharetra dignissim. Nullam nunc ante, viverra quis<br>
                     ex non, porttitor iaculis nisi.
