@@ -14,6 +14,8 @@
     <div id="join" class="content">
         <div class="container">
            <h2 class="content-title">Join Unite</h2>
+                        <p class="content-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur eros dolor,
+sed bibendum turpis luctus eget</p>
             <ul class="pricing-table col-4">
                     <li data-animation="true" data-animation-type="fadeInUp" class="fadeInUp contentAnimated finishAnimated">
                         <div class="pricing-container">
