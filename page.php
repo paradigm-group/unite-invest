@@ -121,9 +121,9 @@ sed bibendum turpis luctus eget</p>
                                 <img src="assets/img/user-1.jpg" alt="Ryan Teller">
                             </div>
                             <div class="info">
-                                <h3 class="name">Ryan Teller</h3>
-                                <div class="title text-theme">FOUNDER</div>
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
+                                <h3 class="name">Lothar Mentel</h3>
+                                <div class="title text-theme">Chief Investment Officer</div>
+                                <p>Lothar heads the team that manage client portfolios and brief your advisers and clients of their sucess.</p>
                                 <div class="social">
                                     <a href="#"><i class="fa fa-facebook fa-lg fa-fw"></i></a>
                                     <a href="#"><i class="fa fa-twitter fa-lg fa-fw"></i></a>
@@ -142,9 +142,9 @@ sed bibendum turpis luctus eget</p>
                                 <img src="assets/img/user-2.jpg" alt="Jonny Cash">
                             </div>
                             <div class="info">
-                                <h3 class="name">Johnny Cash</h3>
-                                <div class="title text-theme">WEB DEVELOPER</div>
-                                <p>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+                                <h3 class="name">Jerry Hogarth</h3>
+                                <div class="title text-theme">Director</div>
+                                <p>Is in charge of custodian services ensuring client accounts are administered well.</p>
                                 <div class="social">
                                     <a href="#"><i class="fa fa-facebook fa-lg fa-fw"></i></a>
                                     <a href="#"><i class="fa fa-twitter fa-lg fa-fw"></i></a>
