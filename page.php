@@ -122,7 +122,7 @@ sed bibendum turpis luctus eget</p>
                             </div>
                             <div class="info">
                                 <h3 class="name">Lothar Mentel</h3>
-                                <div class="title text-theme">Chief Investment Officer</div>
+                                <div class="title text-theme">CHIEF INVESTMENT OFFICER - TATTON</div>
                                 <p>Lothar heads the team that manage client portfolios and brief your advisers and clients of their sucess.</p>
                                 <div class="social">
                                     <a href="#"><i class="fa fa-facebook fa-lg fa-fw"></i></a>
@@ -143,7 +143,7 @@ sed bibendum turpis luctus eget</p>
                             </div>
                             <div class="info">
                                 <h3 class="name">Jerry Hogarth</h3>
-                                <div class="title text-theme">Director</div>
+                                <div class="title text-theme">DIRECTOR - AMBER</div>
                                 <p>Is in charge of custodian services ensuring client accounts are administered well.</p>
                                 <div class="social">
                                     <a href="#"><i class="fa fa-facebook fa-lg fa-fw"></i></a>
@@ -163,8 +163,8 @@ sed bibendum turpis luctus eget</p>
                                 <img src="assets/img/user-3.jpg" alt="Mia Donovan">
                             </div>
                             <div class="info">
-                                <h3 class="name">Mia Donovan</h3>
-                                <div class="title text-theme">WEB DESIGNER</div>
+                                <h3 class="name">Ryan Seaton</h3>
+                                <div class="title text-theme">BUSINESS DEVELOPMENT MANAGER - TATTON</div>
                                 <p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. </p>
                                 <div class="social">
                                     <a href="#"><i class="fa fa-facebook fa-lg fa-fw"></i></a>
