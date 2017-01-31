@@ -537,6 +537,107 @@ POSTS & CONTENT STYLES
 		margin: 0;
 	}
 
+.pricing-table {
+    list-style-type: none;
+    margin: 0 -10px;
+    padding: 0;
+    text-align: center
+}
+
+.pricing-table>li {
+    float: left;
+    padding: 10px
+}
+
+.pricing-table.col-4>li {
+    width: 25%
+}
+
+.pricing-table.col-3>li {
+    width: 33.33333%
+}
+
+.pricing-table .pricing-container {
+    overflow: hidden;
+    border-radius: 6px;
+    background: #f0f3f4;
+    box-shadow: 0 3px #b6c2c9
+}
+
+.pricing-table h3 {
+    background: #242a30;
+    margin: 0;
+    color: #fff;
+    font-size: 14px;
+    padding: 15px 30px
+}
+
+.pricing-table .features {
+    list-style-type: none;
+    margin: 0;
+    padding: 0 30px
+}
+
+.pricing-table .features>li {
+    padding: 10px 0
+}
+
+.pricing-table .features>li+li {
+    border-top: 1px solid #e2e7eb
+}
+
+.pricing-table .price {
+    width: 100%;
+    display: table;
+    background: #2d353c
+}
+
+.pricing-table .price .price-figure {
+    vertical-align: middle;
+    display: table-cell;
+    text-align: center;
+    height: 80px
+}
+
+.pricing-table .price .price-number {
+    font-size: 28px;
+    color: #00a3a3;
+    display: block
+}
+
+.pricing-table .price .price-tenure {
+    font-size: 12px;
+    color: #fff;
+    color: rgba(255,255,255,.7);
+    display: block;
+    text-align: center
+}
+
+.pricing-table .footer {
+    padding: 15px 20px
+}
+
+.pricing-table .highlight {
+    padding: 0;
+    margin-top: -30px
+}
+
+.pricing-table .highlight .features>li {
+    padding: 15px 0
+}
+
+.pricing-table .highlight h3 {
+    padding: 20px 30px
+}
+
+.pricing-table .highlight .price .price-figure {
+    height: 90px
+}
+
+.pricing-table .highlight .price .price-number {
+    color: #fff
+}
+
 /******************************************************************
 PAGE NAVI STYLES
 ******************************************************************/
