@@ -40,7 +40,7 @@
 
         <header class="header" role="banner">
 
-            <div id="inner-header" class="container container-header">
+            <div id="inner-header" class="navbar navbar-transparent navbar-fixed-top">
 
                 <div class="logo-container">
                     <?php // to use a image just replace the bloginfo('name') with your img src and remove the surrounding <p> ?>
