@@ -44,7 +44,7 @@
 
                 <div class="logo-container">
                     <?php // to use a image just replace the bloginfo('name') with your img src and remove the surrounding <p> ?>
-                    <p id="logo"><a href="<?php echo home_url(); ?>" rel="nofollow"><span class="brand-logo"></span><span class="text-theme"Unite></span> Invest</a></p>
+                    <p id="logo"><a href="<?php echo home_url(); ?>" rel="nofollow"><span class="brand-logo"></span><span class="text-theme">Unite</span> Invest</a></p>
                 </div>
 
             </div>
