@@ -11,7 +11,7 @@
         </div>
     </div>
 <div id="join">
-    <h2 class="content-title">Meet the Team</h2>
+    <h2 class="content-title">Join Unite</h2>
     <div id="pricing" class="content">
         <div class="container">
            <h2 class="content-title">Pricing</h2>
