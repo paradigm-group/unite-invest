@@ -13,8 +13,8 @@
 
     <div id="join" class="content">
         <div class="container">
-           <h2 class="content-title">Join Unite</h2>
-                        <p class="content-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur eros dolor,
+           <h2 class="content-title">Pricing</h2>
+                <p class="content-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur eros dolor,
 sed bibendum turpis luctus eget</p>
             <ul class="pricing-table col-4">
                     <li data-animation="true" data-animation-type="fadeInUp" class="fadeInUp contentAnimated finishAnimated">
@@ -105,7 +105,9 @@ sed bibendum turpis luctus eget</p>
                     </li>
                 </ul>
         </div>
-<div class="container">
+    </div>
+    <div id="team" class="content">
+        <div class="container">
                 <h2 class="content-title">Our Team</h2>
                 <p class="content-desc">
                     Phasellus suscipit nisi hendrerit metus pharetra dignissim. Nullam nunc ante, viverra quis<br>
@@ -160,7 +162,7 @@ sed bibendum turpis luctus eget</p>
                         <!-- begin team -->
                         <div class="team">
                             <div class="image flipInX contentAnimated finishAnimated" data-animation="true" data-animation-type="flipInX">
-                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Ryan-01-1-e1485874831595.jpg" alt="Mia Donovan">
+                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Ryan-01-1-e1485874434989.jpg" alt="Mia Donovan">
                             </div>
                             <div class="info">
                                 <h3 class="name">Ryan Seaton</h3>
