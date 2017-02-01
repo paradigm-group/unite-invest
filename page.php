@@ -20,6 +20,7 @@
         <div id="business-aims" class="content">
             <div class="container">
                 <h2 class="content-title">Business Aims</h2>
+                 <p class="content-desc">To systemise your processes, and pass the risk and hassle of building portfolios and maintaining them to a third party and provide you with all the tools you require to recommend and review client portfolios.</p>
             </div>
         </div>
 
@@ -37,7 +38,16 @@
 
         <div id="secruity" class="content">
             <div class="container">
-                <h2 class="content-title">Business Aims</h2>
+                <h2 class="content-title">Security</h2>
+                 <p class="content-desc">How do we keep you safe?</p>
+                <ul>
+                    <li>Safe Holdings</li>
+                    <li>Regulated Service</li>
+                    <li>Data Encryption</li>
+                    <li>Compensation</li>
+                </ul>
+
+                <p>Check!!</p>
             </div>
         </div>
 
