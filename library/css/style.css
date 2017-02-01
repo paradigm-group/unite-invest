@@ -3184,6 +3184,15 @@ body.page-navbar-fixed-top-sm {
   line-height: 20px;
   display: block; }
 
+.team {
+  text-align: center;
+  padding: 0 30px; }
+
+.team .image {
+  display: inline-block;
+  border-radius: 300px;
+  overflow: hidden; }
+
 .team .info {
   margin-top: 15px; }
 
