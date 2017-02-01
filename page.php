@@ -11,9 +11,9 @@
         </div>
     </div>
     <div id="join" class="content-bg">
-        <img src="assets/img/milestone-bg.jpg" alt="Milestone">
+        <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/02/milestone-bg.jpg" alt="Milestone">
         <div class="container">
-            <h2 class="h1">Join Unite</h2>
+            <h1>Join Unite</h1>
         </div>
     </div>
     <div id="pricing" class="content">
