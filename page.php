@@ -7,11 +7,36 @@
             <h1>Why Choose Unite</h1>
         </div>
     </div>
-    <div id="whyever" class="content">
-        <div class="container">
-            <h2 class="content-title">Whyever</h2>
+
+        <div id="our-difference" class="content">
+            <div class="container">
+                <h2 class="content-title">Our Difference</h2>
+            </div>
         </div>
-    </div>
+
+        <div id="business-aims" class="content">
+            <div class="container">
+                <h2 class="content-title">Business Aims</h2>
+            </div>
+        </div>
+
+        <div id="achievments" class="content">
+            <div class="container">
+                <h2 class="content-title">Achievements</h2>
+            </div>
+        </div>
+
+        <div id="adviser-success" class="content">
+            <div class="container">
+                <h2 class="content-title">Adviser Success</h2>
+            </div>
+        </div>
+
+        <div id="secruity" class="content">
+            <div class="container">
+                <h2 class="content-title">Business Aims</h2>
+            </div>
+        </div>
 
     <div id="what" class="content has-bg">
         <div class="content-bg">
