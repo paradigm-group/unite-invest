@@ -3347,7 +3347,8 @@ POSTS & CONTENT STYLES
 .content.has-bg h4,
 .content.has-bg h5,
 .content.has-bg h6 {
-  color: #fff; }
+  color: #fff;
+  text-align: center; }
 
 .content.has-bg h1 {
   font-size: 64px;
