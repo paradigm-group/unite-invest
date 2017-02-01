@@ -3292,7 +3292,8 @@ POSTS & CONTENT STYLES
   top: 0;
   bottom: 0; }
 
-.content.has-bg .content-bg {
+.content.has-bg,
+.content-bg {
   position: absolute;
   top: 0;
   left: 0;
