@@ -10,8 +10,12 @@
            <h2 class="content-title">What We Do</h2>
         </div>
     </div>
-<div id="join">
-    <h2 class="content-title">Join Unite</h2>
+    <div id="join" class="content-bg">
+        <img src="assets/img/milestone-bg.jpg" alt="Milestone">
+        <div class="container">
+            <h2 class="h1">Join Unite</h2>
+        </div>
+    </div>
     <div id="pricing" class="content">
         <div class="container">
            <h2 class="content-title">Pricing</h2>
@@ -121,7 +125,7 @@ sed bibendum turpis luctus eget</p>
                         <!-- begin team -->
                         <div class="team">
                             <div class="image flipInX contentAnimated finishAnimated" data-animation="true" data-animation-type="flipInX">
-                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Lothar-1-e1485874702353.jpg" alt="Ryan Teller">
+                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Lothar-1-e1485874702353.jpg" alt="Lothar Mentel" class="team-image">
                             </div>
                             <div class="info">
                                 <h3 class="name">Lothar Mentel</h3>
@@ -142,7 +146,7 @@ sed bibendum turpis luctus eget</p>
                         <!-- begin team -->
                         <div class="team">
                             <div class="image flipInX contentAnimated finishAnimated" data-animation="true" data-animation-type="flipInX">
-                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Jerry-1-e1485874267273.png" alt="Jonny Cash">
+                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Jerry-1-e1485874267273.png" alt="Jerry Hogarth" class="team-image">
                             </div>
                             <div class="info">
                                 <h3 class="name">Jerry Hogarth</h3>
@@ -163,7 +167,7 @@ sed bibendum turpis luctus eget</p>
                         <!-- begin team -->
                         <div class="team">
                             <div class="image flipInX contentAnimated finishAnimated" data-animation="true" data-animation-type="flipInX">
-                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Ryan-01-1-e1485874434989.jpg" alt="Mia Donovan">
+                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Ryan-01-1-e1485874434989.jpg" alt="Ryan Seaton" class="team-image">
                             </div>
                             <div class="info">
                                 <h3 class="name">Ryan Seaton</h3>
