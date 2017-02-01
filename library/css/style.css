@@ -3051,6 +3051,12 @@ HEADER STYLES
 .header {
   background-color: #fff; }
 
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 20px;
+  border: 1px solid transparent; }
+
 body.page-navbar-fixed-top {
   padding-top: 70px; }
 
