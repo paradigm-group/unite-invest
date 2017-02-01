@@ -3341,8 +3341,17 @@ POSTS & CONTENT STYLES
 .content.has-bg .container .content-desc {
   color: rgba(255, 255, 255, 0.6); }
 
-.content.has-bg h1, .content.has-bg h2, .content.has-bg h3, .content.has-bg h4, .content.has-bg h5, .content.has-bg h6 {
+.content.has-bg h1,
+.content.has-bg h2,
+.content.has-bg h3,
+.content.has-bg h4,
+.content.has-bg h5,
+.content.has-bg h6 {
   color: #fff; }
+
+.content.has-bg h1 {
+  font-size: 64px;
+  font-weight: 600; }
 
 .bg-silver-lighter {
   background: #f4f6f7; }
