@@ -1,13 +1,29 @@
 <?php get_header(); ?>
-    <div id="why" class="content">
+    <div id="why" class="content has-bg">
+        <div class="content-bg">
+            <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/02/action-bg-1.jpg" alt="Milestone">
+        </div>
         <div class="container">
-            <h2 class="content-title">Why Chose Unite</h2>
+            <h1>Why Choose Unite</h1>
+        </div>
+    </div>
+    <div id="whyever" class="content">
+        <div class="container">
+            <h2 class="content-title">Whyever</h2>
         </div>
     </div>
 
-    <div id="what" class="content">
+    <div id="what" class="content has-bg">
+        <div class="content-bg">
+            <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/02/quote-bg.jpg" alt="Milestone">
+        </div>
         <div class="container">
-           <h2 class="content-title">What We Do</h2>
+            <h1>What We Do Unite</h1>
+        </div>
+    </div>
+    <div id="whatever" class="content">
+        <div class="container">
+           <h2 class="content-title">Whatever</h2>
         </div>
     </div>
     <div id="join" class="content has-bg">
@@ -188,6 +204,13 @@ sed bibendum turpis luctus eget</p>
                 </div>
                 <!-- end row -->
             </div>
+    </div>
+<div id="contact" class="content has-bg">
+    <div class="content-bg">
+        <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/02/milestone-bg.jpg" alt="Milestone">
+    </div>
+    <div class="container">
+        <h1>Contact</h1>
     </div>
 </div>
     <div id="contact" class="content bg-silver-lighter">
