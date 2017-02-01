@@ -10,7 +10,7 @@
            <h2 class="content-title">What We Do</h2>
         </div>
     </div>
-    <div id="join" class="content-bg">
+    <div id="join" class="content-bg has-bg">
         <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/02/milestone-bg.jpg" alt="Milestone">
         <div class="container">
             <h1>Join Unite</h1>
