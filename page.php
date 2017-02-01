@@ -270,9 +270,11 @@
             <div class="container">
                     <h2 class="content-title">Educations / Resources</h2>
                     <p class="content-desc">
-                        Phasellus suscipit nisi hendrerit metus pharetra dignissim. Nullam nunc ante, viverra quis<br>
-                        ex non, porttitor iaculis nisi.
+                    We pride ourselves on taking away the daily problems associated with managing client money in what feels like na ever changing set of capital markets. At the same time we understand that you must be kept up-to-date with any rationale we use to manage money. We have therefore put together a comprehensive investment education programme that aims to support any member of your team.
                     </p>
+                <p>Ibbotson - regular asset allocation updates</p>
+                <p>OBSR/Vanguard - baseline updates</p>
+                <p>Tatton CIO - Lothar Mentel - Weekly bulletins, quarterly reports and quarterly web based Q&amp;A sessions</p>
             </div>
         </div>
         <div id="faq" class="content">
