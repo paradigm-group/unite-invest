@@ -27,6 +27,54 @@
         <div id="our-difference" class="content">
             <div class="container">
                 <h2 class="content-title">Our Difference</h2>
+                <p class="content-desc">100% of your service</p>
+                <div class="row">
+                    <!-- begin col-4 -->
+                    <div class="col-md-6 col-sm-6">
+                        <!-- begin about -->
+                        <div class="about">
+                            <h3>Our Story</h3>
+                            <p>
+                                We configure our software towards your service standards and writign style - combining the disciplines of discretionary management, custodianship and technology to help you steamline the delivery of your financial planning services.
+                            </p>
+                        </div>
+                        <!-- end about -->
+                    </div>
+                    <!-- end col-6 -->
+                    <!-- begin col-6 -->
+                    <div class="col-md-6 col-sm-12">
+                        <h3>Our Experience</h3>
+                        <!-- begin skills -->
+                        <div class="skills">
+                            <div class="skills-name">Discretionary Management</div>
+                            <div class="progress progress-striped">
+                                <div class="progress-bar progress-bar-success" style="width: 50%">
+                                    <span class="progress-number">50%</span>
+                                </div>
+                            </div>
+                            <div class="skills-name">Custodianship</div>
+                            <div class="progress progress-striped">
+                                <div class="progress-bar progress-bar-success" style="width: 20%">
+                                    <span class="progress-number">20%</span>
+                                </div>
+                            </div>
+                            <div class="skills-name">Technology</div>
+                            <div class="progress progress-striped">
+                                <div class="progress-bar progress-bar-success" style="width: 30%">
+                                    <span class="progress-number">30%</span>
+                                </div>
+                            </div>
+                            <div class="skills-name">Your services</div>
+                            <div class="progress progress-striped">
+                                <div class="progress-bar progress-bar-success" style="width: 100%">
+                                    <span class="progress-number">100%</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end skills -->
+                    </div>
+                    <!-- end col-4 -->
+                </div>
             </div>
         </div>
 
@@ -52,7 +100,7 @@
         <div id="secruity" class="content">
             <div class="container">
                 <h2 class="content-title">Security</h2>
-                 <p class="content-desc">How do we keep you safe?</p>
+                <p class="content-desc">How do we keep you safe?</p>
                 <ul>
                     <li>Safe Holdings</li>
                     <li>Regulated Service</li>
