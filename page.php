@@ -2,7 +2,7 @@
     <div id="why" class="content has-bg">
 
         <div class="content-bg">
-            <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/02/action-bg-1.jpg" alt="Milestone">
+            <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/02/contact-bg.png" alt="Milestone">
         </div>
 
         <div class="container">
