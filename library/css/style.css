@@ -3225,7 +3225,6 @@ body.page-navbar-fixed-top-sm {
 
 .home-content {
   z-index: 1020;
-  position: absolute;
   top: 50%;
   left: 0;
   right: 0;
