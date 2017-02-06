@@ -105,3 +105,10 @@ and it will create a button dependant on those variables.
     background: #008a8a;
     border-color: #008a8a;
 }
+
+.btn.btn-outline {
+    color: #fff;
+    border-width: 2px;
+    border-color: #8F8E8E;
+    background: 0 0;
+}
