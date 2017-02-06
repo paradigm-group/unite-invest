@@ -2813,6 +2813,24 @@ and it will create a button dependant on those variables.
   .blue-btn:active {
     background-color: #2472a4; }
 
+.btn {
+  padding: 15px 30px;
+  font-size: 14px;
+  font-weight: 500;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px; }
+
+.btn.btn-theme {
+  background: #00acac;
+  border-color: #00acac;
+  color: #fff; }
+
+.btn.btn-theme:hover,
+.btn.btn-theme:focus {
+  background: #008a8a;
+  border-color: #008a8a; }
+
 /******************************************************************
 Site Name:
 Author: Jack Machin
@@ -3033,7 +3051,7 @@ h2 {
   font-size: 30px; }
 
 h3 {
-  font-size: 1.125em; }
+  font-size: 24px; }
 
 h4 {
   font-size: 1.1em;

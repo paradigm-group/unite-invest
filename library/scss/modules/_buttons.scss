@@ -71,3 +71,23 @@ and it will create a button dependant on those variables.
   } // end active
 
 } // end blue button
+
+.btn {
+    padding: 15px 30px;
+    font-size: 14px;
+    font-weight: 500;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.btn.btn-theme {
+    background: #00acac;
+    border-color: #00acac;
+    color: #fff;
+}
+.btn.btn-theme:hover,
+.btn.btn-theme:focus {
+    background: #008a8a;
+    border-color: #008a8a;
+}

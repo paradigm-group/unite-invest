@@ -9,7 +9,8 @@
         <div class="container home-content">
             <h1>Unite Invest</h1>
             <h3>Our Difference is You</h3>
-
+            <a href="#about" class="btn btn-theme">Explore More</a>
+            <a href="#" class="btn btn-outline">Invest Now</a>
         </div>
     </div>
     <div id="why" class="content has-bg">
