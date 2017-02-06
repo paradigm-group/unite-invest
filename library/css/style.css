@@ -3239,6 +3239,9 @@ body.page-navbar-fixed-top-sm {
   padding: 0 15px;
   text-align: center; }
 
+.home-content .btn + .btn {
+  margin-left: 15px; }
+
 .skills .skills-name {
   font-size: 12px;
   color: #242a30;
