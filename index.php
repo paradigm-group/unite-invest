@@ -263,12 +263,12 @@
                         <!-- begin team -->
                         <div class="team">             
                             <div class="image" data-animation="true" data-animation-type="flipInX">
-                                <img src="/wp-content/themes/unite-invest/assets/img/user-1.jpg" alt="Ryan Teller" />
+                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Lothar-1-e1485874702353.jpg" alt="Ryan Teller" />
                             </div>
                             <div class="info">
-                                <h3 class="name">Ryan Teller</h3>
-                                <div class="title text-theme">FOUNDER</div>
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
+                                <h3 class="name">Lothar Mentel</h3>
+                                <div class="title text-theme">>CHIEF INVESTMENT OFFICER - TATTON</div>
+                                <p>Lothar heads the team that manage client portfolios and brief your advisers and clients of their sucess.</p>
                                 <div class="social">
                                     <a href="#"><i class="fa fa-facebook fa-lg fa-fw"></i></a>
                                     <a href="#"><i class="fa fa-twitter fa-lg fa-fw"></i></a>
