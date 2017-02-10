@@ -172,7 +172,7 @@
                             <div class="skills-name">Your services</div></div>
                             <div class="progress progress-striped">
                                 <div class="progress-bar progress-bar-success" style="width: 100%">
-                                    <span class="progress-number">10%</span>
+                                    <span class="progress-number">100%</span>
                                 </div>
                             </div>
                         </div>
@@ -359,7 +359,7 @@
                         <div class="service">
                             <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-cog"></i></div>
                             <div class="info">
-                                <h4 class="title">Easy to Customize</h4>
+                                <h4 class="title">Your client service portal</h4>
                                 <p class="desc">Duis in lorem placerat, iaculis nisi vitae, ultrices tortor. Vestibulum molestie ipsum nulla. Maecenas nec hendrerit eros, sit amet maximus leo.</p>
                             </div>
                         </div>
@@ -370,7 +370,7 @@
                         <div class="service">
                             <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-paint-brush"></i></div>
                             <div class="info">
-                                <h4 class="title">Clean & Careful Design</h4>
+                                <h4 class="title">Investment portfolios</h4>
                                 <p class="desc">Etiam nulla turpis, gravida et orci ac, viverra commodo ipsum. Donec nec mauris faucibus, congue nisi sit amet, lobortis arcu.</p>
                             </div>
                         </div>
@@ -381,7 +381,7 @@
                         <div class="service">
                             <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-file"></i></div>
                             <div class="info">
-                                <h4 class="title">Well Documented</h4>
+                                <h4 class="title">Documentation</h4>
                                 <p class="desc">Ut vel laoreet tortor. Donec venenatis ex velit, eget bibendum purus accumsan cursus. Curabitur pulvinar iaculis diam.</p>
                             </div>
                         </div>
@@ -396,7 +396,7 @@
                         <div class="service">
                             <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-code"></i></div>
                             <div class="info">
-                                <h4 class="title">Re-usable Code</h4>
+                                <h4 class="title">Configured for you</h4>
                                 <p class="desc">Aenean et elementum dui. Aenean massa enim, suscipit ut molestie quis, pretium sed orci. Ut faucibus egestas mattis.</p>
                             </div>
                         </div>
@@ -407,7 +407,7 @@
                         <div class="service">
                             <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-shopping-cart"></i></div>
                             <div class="info">
-                                <h4 class="title">Online Shop</h4>
+                                <h4 class="title">Online only</h4>
                                 <p class="desc">Quisque gravida metus in sollicitudin feugiat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
                             </div>
                         </div>
