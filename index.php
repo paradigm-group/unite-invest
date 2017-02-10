@@ -289,7 +289,7 @@
                             <div class="info">
                                 <h3 class="name">Jerry Hogarth</h3>
                                 <div class="title text-theme">DIRECTOR - AMBER</div>
-                                <p>Is in charge of custodian services ensuring client accounts are administered well.</p>
+                                <p>Jerry is in charge of custodian services ensuring client accounts are administered well.</p>
                                 <div class="social">
                                     <a href="#"><i class="fa fa-facebook fa-lg fa-fw"></i></a>
                                     <a href="#"><i class="fa fa-twitter fa-lg fa-fw"></i></a>
