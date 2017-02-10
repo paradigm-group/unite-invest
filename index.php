@@ -169,7 +169,7 @@
                                     <span class="progress-number">30%</span>
                                 </div>
                             </div>
-                            <div class="skills-name">Your services</div></div>
+                            <div class="skills-name">Your services</div>
                             <div class="progress progress-striped">
                                 <div class="progress-bar progress-bar-success" style="width: 100%">
                                     <span class="progress-number">100%</span>
@@ -836,7 +836,7 @@
         </div>
         <!-- end #footer -->
         
-        <!-- begin theme-panel-->
+        <!-- begin theme-panel>
         <div class="theme-panel">
             <a href="javascript:;" data-click="theme-panel-expand" class="theme-collapse-btn"><i class="fa fa-cog"></i></a>
             <div class="theme-panel-content">
