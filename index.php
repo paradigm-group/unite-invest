@@ -42,7 +42,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a href="index.html" class="navbar-brand">
+                    <a href="http://www.uniteinvest.co.uk/" class="navbar-brand">
                         <span class="brand-logo"></span>
                         <span class="brand-text">
                             <span class="text-theme">Unite</span> Invest
