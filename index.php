@@ -263,7 +263,7 @@
                         <!-- begin team -->
                         <div class="team">             
                             <div class="image" data-animation="true" data-animation-type="flipInX">
-                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Lothar-1-e1485874702353.jpg" alt="Ryan Teller" />
+                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Lothar-1-e1486722078166.jpg" alt="Lothar Mentel" />
                             </div>
                             <div class="info">
                                 <h3 class="name">Lothar Mentel</h3>
