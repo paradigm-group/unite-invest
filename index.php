@@ -115,20 +115,9 @@
                     <div class="col-md-4 col-sm-6">
                         <!-- begin about -->
                         <div class="about">
-                            <h3>Our Story</h3>
+                            <h3>Our Difference</h3>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                                Vestibulum posuere augue eget ante porttitor fringilla. 
-                                Aliquam laoreet, sem eu dapibus congue, velit justo ullamcorper urna, 
-                                non rutrum dolor risus non sapien. Vivamus vel tincidunt quam. 
-                                Donec ultrices nisl ipsum, sed elementum ex dictum nec. 
-                            </p>
-                            <p>
-                                In non libero at orci rutrum viverra at ac felis. 
-                                Curabitur a efficitur libero, eu finibus quam. 
-                                Pellentesque pretium ante vitae est molestie, ut faucibus tortor commodo. 
-                                Donec gravida, eros ac pretium cursus, est erat dapibus quam, 
-                                sit amet dapibus nisl magna sit amet orci. 
+                                We configure our software towards your service standards and writing style – combining the disciplines of discretionary management, custodianship and technology to help you streamline the delivery of your client agreed services&hellip;
                             </p>
                         </div>
                         <!-- end about -->
@@ -136,12 +125,12 @@
                     <!-- end col-4 -->
                     <!-- begin col-4 -->
                     <div class="col-md-4 col-sm-6">
-                        <h3>Our Philosophy</h3>
+                        <h3>Our Aim</h3>
                         <!-- begin about-author -->
                         <div class="about-author">
                             <div class="quote bg-silver">
                                 <i class="fa fa-quote-left"></i>
-                                <h3>We work harder,<br /><span>to let our user keep simple</span></h3>
+                                    <h3>To systemise your processes, and pass the risk and hassle of building portfolios and maintaining them to a third party and provide you with all the tools you require to recommend and review client portfolios.</h3>
                                 <i class="fa fa-quote-right"></i>
                             </div>
                             <div class="author">
@@ -162,28 +151,28 @@
                         <h3>Our Experience</h3>
                         <!-- begin skills -->
                         <div class="skills">
-                            <div class="skills-name">Front End</div>
+                            <div class="skills-name">Discretionary Management</div>
                             <div class="progress progress-striped">
-                                <div class="progress-bar progress-bar-success" style="width: 95%">
-                                    <span class="progress-number">95%</span>
+                                <div class="progress-bar progress-bar-success" style="width: 50%">
+                                    <span class="progress-number">50%</span>
                                 </div>
                             </div>
-                            <div class="skills-name">Programming</div>
+                            <div class="skills-name">Custodianship</div>
                             <div class="progress progress-striped">
-                                <div class="progress-bar progress-bar-success" style="width: 90%">
-                                    <span class="progress-number">90%</span>
+                                <div class="progress-bar progress-bar-success" style="width: 20%">
+                                    <span class="progress-number">20%</span>
                                 </div>
                             </div>
-                            <div class="skills-name">Database Design</div>
+                            <div class="skills-name">Technology</div>
                             <div class="progress progress-striped">
-                                <div class="progress-bar progress-bar-success" style="width: 85%">
-                                    <span class="progress-number">85%</span>
+                                <div class="progress-bar progress-bar-success" style="width: 30%">
+                                    <span class="progress-number">30%</span>
                                 </div>
                             </div>
-                            <div class="skills-name">Wordpress</div>
+                            <div class="skills-name">Your services</div></div>
                             <div class="progress progress-striped">
-                                <div class="progress-bar progress-bar-success" style="width: 80%">
-                                    <span class="progress-number">80%</span>
+                                <div class="progress-bar progress-bar-success" style="width: 100%">
+                                    <span class="progress-number">10%</span>
                                 </div>
                             </div>
                         </div>
