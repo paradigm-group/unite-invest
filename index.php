@@ -305,7 +305,7 @@
                         <!-- begin team -->
                         <div class="team">             
                             <div class="image" data-animation="true" data-animation-type="flipInX">
-                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Ryan-01-1-1024x683.jpg" alt="Ryan Seaton" />
+                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Ryan-01-1-e1486722536179.jpg" alt="Ryan Seaton" />
                             </div>
                             <div class="info">
                                 <h3 class="name">Ryan Seaton</h3>
