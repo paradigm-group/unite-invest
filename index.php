@@ -287,7 +287,7 @@
                                 <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Jerry-1-e1486722620708.png" alt="Jerry Hogarth" />
                             </div>
                             <div class="info">
-                                <h3 class="name"></h3>
+                                <h3 class="name">Jerry Hogarth</h3>
                                 <div class="title text-theme">DIRECTOR - AMBER</div>
                                 <p>Is in charge of custodian services ensuring client accounts are administered well.</p>
                                 <div class="social">
@@ -847,7 +847,7 @@
         </div>
         <!-- end #footer -->
         
-        <!-- begin theme-panel -->
+        <!-- begin theme-panel>
         <div class="theme-panel">
             <a href="javascript:;" data-click="theme-panel-expand" class="theme-collapse-btn"><i class="fa fa-cog"></i></a>
             <div class="theme-panel-content">
