@@ -45,7 +45,7 @@
                     <a href="index.html" class="navbar-brand">
                         <span class="brand-logo"></span>
                         <span class="brand-text">
-                            <span class="text-theme">Color</span> Admin
+                            <span class="text-theme">Unite</span> Invest
                         </span>
                     </a>
                 </div>
@@ -86,8 +86,8 @@
             <!-- end content-bg -->
             <!-- begin container -->
             <div class="container home-content">
-                <h1>Welcome to Color Admin</h1>
-                <h3>Multipurpose One Page Theme</h3>
+                <h1>Welcome to Unite Invest</h1>
+                <h3>Our Difference Is You</h3>
                 <p>
                     We have created a multi-purpose theme that take the form of One-Page or Multi-Page Version.<br />
                     Use our <a href="#">theme panel</a> to select your favorite theme color.
@@ -267,7 +267,7 @@
                             </div>
                             <div class="info">
                                 <h3 class="name">Lothar Mentel</h3>
-                                <div class="title text-theme">>CHIEF INVESTMENT OFFICER - TATTON</div>
+                                <div class="title text-theme">CHIEF INVESTMENT OFFICER - TATTON</div>
                                 <p>Lothar heads the team that manage client portfolios and brief your advisers and clients of their sucess.</p>
                                 <div class="social">
                                     <a href="#"><i class="fa fa-facebook fa-lg fa-fw"></i></a>
