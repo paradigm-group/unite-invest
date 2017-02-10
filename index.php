@@ -855,16 +855,16 @@
             <div class="container">
                 <div class="footer-brand">
                     <div class="footer-brand-logo"></div>
-                    Color Admin
+                    Unite Invest
                 </div>
                 <p>
-                    &copy; Copyright Color Admin 2014 <br />
-                    An admin & front end theme with serious impact. Created by <a href="#">SeanTheme</a>
+                    &copy; Copyright Unite Invest 2017 <br />
+                    Our Difference is You
                 </p>
                 <p class="social-list">
                     <a href="#"><i class="fa fa-facebook fa-fw"></i></a>
                     <a href="#"><i class="fa fa-instagram fa-fw"></i></a>
-                    <a href="#"><i class="fa fa-twitter fa-fw"></i></a>
+                    <a href="https://twitter.com/unite_invest"><i class="fa fa-twitter fa-fw"></i></a>
                     <a href="#"><i class="fa fa-google-plus fa-fw"></i></a>
                     <a href="#"><i class="fa fa-dribbble fa-fw"></i></a>
                 </p>
