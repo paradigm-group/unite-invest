@@ -284,12 +284,12 @@
                         <!-- begin team -->
                         <div class="team">             
                             <div class="image" data-animation="true" data-animation-type="flipInX">
-                                <img src="/wp-content/themes/unite-invest/assets/img/user-2.jpg" alt="Jonny Cash" />
+                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Jerry-1-e1486722620708.png" alt="Jerry Hogarth" />
                             </div>
                             <div class="info">
-                                <h3 class="name">Johnny Cash</h3>
-                                <div class="title text-theme">WEB DEVELOPER</div>
-                                <p>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+                                <h3 class="name"></h3>
+                                <div class="title text-theme">DIRECTOR - AMBER</div>
+                                <p>Is in charge of custodian services ensuring client accounts are administered well.</p>
                                 <div class="social">
                                     <a href="#"><i class="fa fa-facebook fa-lg fa-fw"></i></a>
                                     <a href="#"><i class="fa fa-twitter fa-lg fa-fw"></i></a>
@@ -305,12 +305,12 @@
                         <!-- begin team -->
                         <div class="team">             
                             <div class="image" data-animation="true" data-animation-type="flipInX">
-                                <img src="/wp-content/themes/unite-invest/assets/img/user-3.jpg" alt="Mia Donovan" />
+                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Ryan-01-1-1024x683.jpg" alt="Ryan Seaton" />
                             </div>
                             <div class="info">
-                                <h3 class="name">Mia Donovan</h3>
-                                <div class="title text-theme">WEB DESIGNER</div>
-                                <p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. </p>
+                                <h3 class="name">Ryan Seaton</h3>
+                                <div class="title text-theme">BUSINESS DEVELOPMENT MANAGER - TATTON</div>
+                                <p>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
                                 <div class="social">
                                     <a href="#"><i class="fa fa-facebook fa-lg fa-fw"></i></a>
                                     <a href="#"><i class="fa fa-twitter fa-lg fa-fw"></i></a>
