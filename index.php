@@ -16,16 +16,16 @@
 	
 	<!-- ================== BEGIN BASE CSS STYLE ================== -->
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-	<link href="/wp-contnt/themes/unite-invest/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-	<link href="/wp-contnt/themes/unite-invest/assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
-	<link href="/wp-contnt/themes/unite-invest/assets/css/animate.min.css" rel="stylesheet" />
-	<link href="/wp-contnt/themes/unite-invest/assets/css/style.min.css" rel="stylesheet" />
-	<link href="/wp-contnt/themes/unite-invest/assets/css/style-responsive.min.css" rel="stylesheet" />
-	<link href="/wp-contnt/themes/unite-invest/assets/css/theme/default.css" id="theme" rel="stylesheet" />
+	<link href="/wp-content/themes/unite-invest/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="/wp-content/themes/unite-invest/assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+	<link href="/wp-content/themes/unite-invest/assets/css/animate.min.css" rel="stylesheet" />
+	<link href="/wp-content/themes/unite-invest/assets/css/style.min.css" rel="stylesheet" />
+	<link href="/wp-content/themes/unite-invest/assets/css/style-responsive.min.css" rel="stylesheet" />
+	<link href="/wp-content/themes/unite-invest/assets/css/theme/default.css" id="theme" rel="stylesheet" />
 	<!-- ================== END BASE CSS STYLE ================== -->
 	
 	<!-- ================== BEGIN BASE JS ================== -->
-	<script src="/wp-contnt/themes/unite-invest/assets/plugins/pace/pace.min.js"></script>
+	<script src="/wp-content/themes/unite-invest/assets/plugins/pace/pace.min.js"></script>
 	<!-- ================== END BASE JS ================== -->
 </head>
 <body data-spy="scroll" data-target="#header-navbar" data-offset="51">
@@ -81,7 +81,7 @@
         <div id="home" class="content has-bg home">
             <!-- begin content-bg -->
             <div class="content-bg">
-                <img src="assets/img/home-bg.jpg" alt="Home" />
+                <img src="/wp-content/themes/unite-invest/assets/img/home-bg.jpg" alt="Home" />
             </div>
             <!-- end content-bg -->
             <!-- begin container -->
@@ -146,7 +146,7 @@
                             </div>
                             <div class="author">
                                 <div class="image">
-                                    <img src="assets/img/user-1.jpg" alt="Sean Ngu" />
+                                    <img src="/wp-content/themes/unite-invest/assets/img/user-1.jpg" alt="Sean Ngu" />
                                 </div>
                                 <div class="info">
                                     Sean Ngu
@@ -201,7 +201,7 @@
         <div id="milestone" class="content bg-black-darker has-bg" data-scrollview="true">
             <!-- begin content-bg -->
             <div class="content-bg">
-                <img src="assets/img/milestone-bg.jpg" alt="Milestone" />
+                <img src="/wp-content/themes/unite-invest/assets/img/milestone-bg.jpg" alt="Milestone" />
             </div>
             <!-- end content-bg -->
             <!-- begin container -->
@@ -263,7 +263,7 @@
                         <!-- begin team -->
                         <div class="team">             
                             <div class="image" data-animation="true" data-animation-type="flipInX">
-                                <img src="assets/img/user-1.jpg" alt="Ryan Teller" />
+                                <img src="/wp-content/themes/unite-invest/assets/img/user-1.jpg" alt="Ryan Teller" />
                             </div>
                             <div class="info">
                                 <h3 class="name">Ryan Teller</h3>
@@ -284,7 +284,7 @@
                         <!-- begin team -->
                         <div class="team">             
                             <div class="image" data-animation="true" data-animation-type="flipInX">
-                                <img src="assets/img/user-2.jpg" alt="Jonny Cash" />
+                                <img src="/wp-content/themes/unite-invest/assets/img/user-2.jpg" alt="Jonny Cash" />
                             </div>
                             <div class="info">
                                 <h3 class="name">Johnny Cash</h3>
@@ -305,7 +305,7 @@
                         <!-- begin team -->
                         <div class="team">             
                             <div class="image" data-animation="true" data-animation-type="flipInX">
-                                <img src="assets/img/user-3.jpg" alt="Mia Donovan" />
+                                <img src="/wp-content/themes/unite-invest/assets/img/user-3.jpg" alt="Mia Donovan" />
                             </div>
                             <div class="info">
                                 <h3 class="name">Mia Donovan</h3>
@@ -332,7 +332,7 @@
         <div id="quote" class="content bg-black-darker has-bg" data-scrollview="true">
             <!-- begin content-bg -->
             <div class="content-bg">
-                <img src="assets/img/quote-bg.jpg" alt="Quote" />
+                <img src="/wp-content/themes/unite-invest/assets/img/quote-bg.jpg" alt="Quote" />
             </div>
             <!-- end content-bg -->
             <!-- begin container -->
@@ -446,7 +446,7 @@
         <div id="action-box" class="content has-bg" data-scrollview="true">
             <!-- begin content-bg -->
             <div class="content-bg">
-                <img src="assets/img/action-bg.jpg" alt="Action" />
+                <img src="/wp-content/themes/unite-invest/assets/img/action-bg.jpg" alt="Action" />
             </div>
             <!-- end content-bg -->
             <!-- begin container -->
@@ -492,7 +492,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="assets/img/work-1.jpg" alt="Work 1" /></a>
+                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/work-1.jpg" alt="Work 1" /></a>
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Aliquam molestie</span>
@@ -507,7 +507,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="assets/img/work-3.jpg" alt="Work 3" /></a>
+                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/work-3.jpg" alt="Work 3" /></a>
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Quisque at pulvinar lacus</span>
@@ -522,7 +522,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="assets/img/work-5.jpg" alt="Work 5" /></a>
+                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/work-5.jpg" alt="Work 5" /></a>
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Vestibulum et erat ornare</span>
@@ -537,7 +537,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="assets/img/work-7.jpg" alt="Work 7" /></a>
+                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/work-7.jpg" alt="Work 7" /></a>
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Sed vitae mollis magna</span>
@@ -556,7 +556,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="assets/img/work-2.jpg" alt="Work 2" /></a>
+                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/work-2.jpg" alt="Work 2" /></a>
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Suspendisse at mattis odio</span>
@@ -571,7 +571,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="assets/img/work-4.jpg" alt="Work 4" /></a>
+                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/work-4.jpg" alt="Work 4" /></a>
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Aliquam vitae commodo diam</span>
@@ -586,7 +586,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="assets/img/work-6.jpg" alt="Work 6" /></a>
+                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/work-6.jpg" alt="Work 6" /></a>
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Phasellus eu vehicula lorem</span>
@@ -601,7 +601,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="assets/img/work-8.jpg" alt="Work 8" /></a>
+                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/work-8.jpg" alt="Work 8" /></a>
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Morbi bibendum pellentesque</span>
@@ -622,7 +622,7 @@
         <div id="client" class="content has-bg bg-green" data-scrollview="true">
             <!-- begin content-bg -->
             <div class="content-bg">
-                <img src="assets/img/client-bg.jpg" alt="Client" />
+                <img src="/wp-content/themes/unite-invest/assets/img/client-bg.jpg" alt="Client" />
             </div>
             <!-- end content-bg -->
             <!-- begin container -->
@@ -891,17 +891,17 @@
     <?php // all js scripts are loaded in library/bones.php ?>
     <?php wp_footer(); ?>
 	<!-- ================== BEGIN BASE JS ================== -->
-	<script src="/wp-contnt/themes/unite-invest/assets/plugins/jquery/jquery-1.9.1.min.js"></script>
-	<script src="/wp-contnt/themes/unite-invest/assets/plugins/jquery/jquery-migrate-1.1.0.min.js"></script>
-	<script src="/wp-contnt/themes/unite-invest/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+	<script src="/wp-content/themes/unite-invest/assets/plugins/jquery/jquery-1.9.1.min.js"></script>
+	<script src="/wp-content/themes/unite-invest/assets/plugins/jquery/jquery-migrate-1.1.0.min.js"></script>
+	<script src="/wp-content/themes/unite-invest/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 	<!--[if lt IE 9]>
-		<script src="/wp-contnt/themes/unite-invest/assets/crossbrowserjs/html5shiv.js"></script>
-		<script src="/wp-contnt/themes/unite-invest/assets/crossbrowserjs/respond.min.js"></script>
-		<script src="/wp-contnt/themes/unite-invest/assets/crossbrowserjs/excanvas.min.js"></script>
+		<script src="/wp-content/themes/unite-invest/assets/crossbrowserjs/html5shiv.js"></script>
+		<script src="/wp-content/themes/unite-invest/assets/crossbrowserjs/respond.min.js"></script>
+		<script src="/wp-content/themes/unite-invest/assets/crossbrowserjs/excanvas.min.js"></script>
 	<![endif]-->
-	<script src="/wp-contnt/themes/unite-invest/assets/plugins/jquery-cookie/jquery.cookie.js"></script>
-	<script src="/wp-contnt/themes/unite-invest/assets/plugins/scrollMonitor/scrollMonitor.js"></script>
-	<script src="/wp-contnt/themes/unite-invest/assets/js/apps.min.js"></script>
+	<script src="/wp-content/themes/unite-invest/assets/plugins/jquery-cookie/jquery.cookie.js"></script>
+	<script src="/wp-content/themes/unite-invest/assets/plugins/scrollMonitor/scrollMonitor.js"></script>
+	<script src="/wp-content/themes/unite-invest/assets/js/apps.min.js"></script>
 	<!-- ================== END BASE JS ================== -->
 	
 	<script>    
