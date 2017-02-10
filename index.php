@@ -694,7 +694,7 @@
                 <ul class="pricing-table col-4">
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h3>Starter</h3>
+                            <h3>Software &amp; Support</h3>
                             <div class="price">
                                 <div class="price-figure">
                                     <span class="price-number">FREE</span>
@@ -715,7 +715,7 @@
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h3>Basic</h3>
+                            <h3>GIA</h3>
                             <div class="price">
                                 <div class="price-figure">
                                     <span class="price-number">$9.99</span>
@@ -737,7 +737,7 @@
                     </li>
                     <li class="highlight" data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h3>Premium</h3>
+                            <h3>ISA</h3>
                             <div class="price">
                                 <div class="price-figure">
                                     <span class="price-number">$19.99</span>
@@ -759,7 +759,7 @@
                     </li>
                     <li data-animation="true" data-animation-type="fadeInUp">
                         <div class="pricing-container">
-                            <h3>Lifetime</h3>
+                            <h3>SIPP</h3>
                             <div class="price">
                                 <div class="price-figure">
                                     <span class="price-number">$999</span>
