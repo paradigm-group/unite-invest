@@ -53,14 +53,14 @@
                 <!-- begin navbar-collapse -->
                 <div class="collapse navbar-collapse" id="header-navbar">
                     <ul class="nav navbar-nav navbar-right">
-                        <li class="active dropdown">
+                        <li>
                             <a href="#home" data-click="scroll-to-target" data-toggle="dropdown">HOME <b class="caret"></b></a>
-                            <ul class="dropdown-menu dropdown-menu-left animated fadeInDown">
+                            <!-- ul class="dropdown-menu dropdown-menu-left animated fadeInDown">
                                 <li><a href="index.html">Page with Transparent Header</a></li>
                                 <li><a href="index_inverse_header.html">Page with Inverse Header</a></li>
                                 <li><a href="index_default_header.html">Page with White Header</a></li>
                                 <li><a href="extra_element.html">Extra Element</a></li>
-                            </ul>
+                            </ul-->
                         </li>
                         <li><a href="#about" data-click="scroll-to-target">ABOUT</a></li>
                         <li><a href="#team" data-click="scroll-to-target">TEAM</a></li>
