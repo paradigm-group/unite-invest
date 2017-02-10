@@ -16,16 +16,16 @@
 	
 	<!-- ================== BEGIN BASE CSS STYLE ================== -->
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-	<link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-	<link href="assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
-	<link href="assets/css/animate.min.css" rel="stylesheet" />
-	<link href="assets/css/style.min.css" rel="stylesheet" />
-	<link href="assets/css/style-responsive.min.css" rel="stylesheet" />
-	<link href="assets/css/theme/default.css" id="theme" rel="stylesheet" />
+	<link href="/wp-contnt/themes/unite-invest/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="/wp-contnt/themes/unite-invest/assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+	<link href="/wp-contnt/themes/unite-invest/assets/css/animate.min.css" rel="stylesheet" />
+	<link href="/wp-contnt/themes/unite-invest/assets/css/style.min.css" rel="stylesheet" />
+	<link href="/wp-contnt/themes/unite-invest/assets/css/style-responsive.min.css" rel="stylesheet" />
+	<link href="/wp-contnt/themes/unite-invest/assets/css/theme/default.css" id="theme" rel="stylesheet" />
 	<!-- ================== END BASE CSS STYLE ================== -->
 	
 	<!-- ================== BEGIN BASE JS ================== -->
-	<script src="assets/plugins/pace/pace.min.js"></script>
+	<script src="/wp-contnt/themes/unite-invest/assets/plugins/pace/pace.min.js"></script>
 	<!-- ================== END BASE JS ================== -->
 </head>
 <body data-spy="scroll" data-target="#header-navbar" data-offset="51">
@@ -891,17 +891,17 @@
     <?php // all js scripts are loaded in library/bones.php ?>
     <?php wp_footer(); ?>
 	<!-- ================== BEGIN BASE JS ================== -->
-	<script src="assets/plugins/jquery/jquery-1.9.1.min.js"></script>
-	<script src="assets/plugins/jquery/jquery-migrate-1.1.0.min.js"></script>
-	<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+	<script src="/wp-contnt/themes/unite-invest/assets/plugins/jquery/jquery-1.9.1.min.js"></script>
+	<script src="/wp-contnt/themes/unite-invest/assets/plugins/jquery/jquery-migrate-1.1.0.min.js"></script>
+	<script src="/wp-contnt/themes/unite-invest/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 	<!--[if lt IE 9]>
-		<script src="assets/crossbrowserjs/html5shiv.js"></script>
-		<script src="assets/crossbrowserjs/respond.min.js"></script>
-		<script src="assets/crossbrowserjs/excanvas.min.js"></script>
+		<script src="/wp-contnt/themes/unite-invest/assets/crossbrowserjs/html5shiv.js"></script>
+		<script src="/wp-contnt/themes/unite-invest/assets/crossbrowserjs/respond.min.js"></script>
+		<script src="/wp-contnt/themes/unite-invest/assets/crossbrowserjs/excanvas.min.js"></script>
 	<![endif]-->
-	<script src="assets/plugins/jquery-cookie/jquery.cookie.js"></script>
-	<script src="assets/plugins/scrollMonitor/scrollMonitor.js"></script>
-	<script src="assets/js/apps.min.js"></script>
+	<script src="/wp-contnt/themes/unite-invest/assets/plugins/jquery-cookie/jquery.cookie.js"></script>
+	<script src="/wp-contnt/themes/unite-invest/assets/plugins/scrollMonitor/scrollMonitor.js"></script>
+	<script src="/wp-contnt/themes/unite-invest/assets/js/apps.min.js"></script>
 	<!-- ================== END BASE JS ================== -->
 	
 	<script>    
