@@ -141,20 +141,20 @@ function bones_scripts_and_styles() {
 		wp_register_script( 'guybrush-js', get_stylesheet_directory_uri() . '/library/js/min/scripts.min.js', array( 'jquery' ), '', true );
 
 		// enqueue styles
-		wp_enqueue_style( 'guybrush-stylesheet' );
-		wp_enqueue_style( 'guybrush-ie-only' );
-        wp_enqueue_style( 'google-fonts');
+		//wp_enqueue_style( 'guybrush-stylesheet' );
+		//wp_enqueue_style( 'guybrush-ie-only' );
+        //wp_enqueue_style( 'google-fonts');
 
 		$wp_styles->add_data( 'guybrush-ie-only', 'conditional', 'lt IE 9' ); // add conditional wrapper around ie stylesheet
 
         // enqueue scripts
-		wp_enqueue_script( 'jquery' );
-		wp_enqueue_script( 'guybrush-js' );
-        wp_enqueue_script( 'guybrush-modernizr' );
+		//wp_enqueue_script( 'jquery' );
+		//wp_enqueue_script( 'guybrush-js' );
+       // wp_enqueue_script( 'guybrush-modernizr' );
 
           // comment reply script for threaded comments
         if ( is_singular() AND comments_open() AND (get_option('thread_comments') == 1)) {
-              wp_enqueue_script( 'comment-reply' );
+             // wp_enqueue_script( 'comment-reply' );
         }
 
 	}
