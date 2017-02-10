@@ -60,6 +60,7 @@ function bones_ahoy() {
 // let's get this party started
 add_action( 'after_setup_theme', 'bones_ahoy' );
 
+show_admin_bar(false);
 
 /************* OEMBED SIZE OPTIONS *************/
 
