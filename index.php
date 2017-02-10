@@ -815,32 +815,7 @@
                     <!-- end col-6 -->
                     <!-- begin col-6 -->
                     <div class="col-md-6 form-col" data-animation="true" data-animation-type="fadeInRight">
-                        <form class="form-horizontal">
-                            <div class="form-group">
-                                <label class="control-label col-md-3">Name <span class="text-theme">*</span></label>
-                                <div class="col-md-9">
-                                    <input type="text" class="form-control" />
-                                </div>
-                            </div>
-                            <div class="form-group">
-                                <label class="control-label col-md-3">Email <span class="text-theme">*</span></label>
-                                <div class="col-md-9">
-                                    <input type="text" class="form-control" />
-                                </div>
-                            </div>
-                            <div class="form-group">
-                                <label class="control-label col-md-3">Message <span class="text-theme">*</span></label>
-                                <div class="col-md-9">
-                                    <textarea class="form-control" rows="10"></textarea>
-                                </div>
-                            </div>
-                            <div class="form-group">
-                                <label class="control-label col-md-3"></label>
-                                <div class="col-md-9 text-left">
-                                    <button type="submit" class="btn btn-theme btn-block">Send Message</button>
-                                </div>
-                            </div>
-                        </form>
+                        <?php gravity_form( 1, false, false, false, '', false ); ?>
                     </div>
                     <!-- end col-6 -->
                 </div>
