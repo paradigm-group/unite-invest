@@ -542,11 +542,11 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/work-2.jpg" alt="Work 2" /></a>
+                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/recommend.png" alt="Recommend" /></a>
                             </div>
                             <div class="desc">
-                                <span class="desc-title">Suspendisse at mattis odio</span>
-                                <span class="desc-text">Lorem ipsum dolor sit amet</span>
+                                <span class="desc-title">Recommendations Made Easy</span>
+                                <span class="desc-text">A few short forms and you're ready to go</span>
                             </div>
                         </div>
                         <!-- end work -->
