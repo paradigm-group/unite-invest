@@ -493,11 +493,11 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/work-3.jpg" alt="Work 3" /></a>
+                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/reports.png" alt="Reports" /></a>
                             </div>
                             <div class="desc">
-                                <span class="desc-title">Quisque at pulvinar lacus</span>
-                                <span class="desc-text">Lorem ipsum dolor sit amet</span>
+                                <span class="desc-title">Reports are configured to your brand</span>
+                                <span class="desc-text">Defining your services, standards and style.</span>
                             </div>
                         </div>
                         <!-- end work -->
