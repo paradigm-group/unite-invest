@@ -464,7 +464,7 @@
         <!-- end #action-box -->
         
         <!-- begin #work -->
-        <div id="work" class="content" data-scrollview="true">
+        <div id="work" class="content bg-silver" data-scrollview="true">
             <!-- begin container -->
             <div class="container" data-animation="true" data-animation-type="fadeInDown">
                 <h2 class="content-title">Our Unique Services</h2>
