@@ -90,10 +90,9 @@
                 <h1>Welcome to Unite Invest</h1>
                 <h3>Our Difference Is You</h3>
                 <p>
-                    We have created a multi-purpose theme that take the form of One-Page or Multi-Page Version.<br />
-                    Use our <a href="#">theme panel</a> to select your favorite theme color.
+                    We help you create a compelling investment proposition taking the work our of client recommendations and reviews by integrating a set of services.
                 </p>
-                <a href="#" class="btn btn-theme">Explore More</a> <a href="#" class="btn btn-outline">Purchase Now</a><br />
+                <a href="#" class="btn btn-theme">Explore More</a> <a href="#" class="btn btn-outline">Invest Now</a><br />
                 <br />
                 or <a href="#">subscribe</a> newsletter
             </div>
