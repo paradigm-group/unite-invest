@@ -497,7 +497,7 @@
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Reports configured to your brand</span>
-                                <span class="desc-text">Defined to your services, standards and style.</span>
+                                <span class="desc-text">Defining your services, standards and style.</span>
                             </div>
                         </div>
                         <!-- end work -->
