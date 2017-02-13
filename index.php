@@ -512,7 +512,7 @@
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Our Dashboard</span>
-                                <span class="desc-text">All you require to run client recommendations &amp; reviews</span>
+                                <span class="desc-text">All you require to run client reviews</span>
                             </div>
                         </div>
                         <!-- end work -->
