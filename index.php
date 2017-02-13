@@ -92,9 +92,7 @@
                 <p>
                     We help you create a compelling investment proposition taking the work our of client recommendations and reviews by integrating a set of services.
                 </p>
-                <a href="#" class="btn btn-theme">Explore More</a> <a href="#" class="btn btn-outline">Invest Now</a><br />
-                <br />
-                or <a href="#">subscribe</a> newsletter
+                <a href="#" class="btn btn-theme">Explore More</a> <a href="#" class="btn btn-outline">Invest Now</a>
             </div>
             <!-- end container -->
         </div>
