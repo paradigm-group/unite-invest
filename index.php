@@ -496,8 +496,8 @@
                                 <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/reports.png" alt="Reports" /></a>
                             </div>
                             <div class="desc">
-                                <span class="desc-title">Reports are configured to your brand</span>
-                                <span class="desc-text">Defining your services, standards and style.</span>
+                                <span class="desc-title">Reports configured to your brand</span>
+                                <span class="desc-text">Defined to your services, standards and style.</span>
                             </div>
                         </div>
                         <!-- end work -->
