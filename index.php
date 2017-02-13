@@ -561,7 +561,7 @@
                             </div>
                             <div class="desc">
                                 <span class="desc-title">One click client reviews</span>
-                                <span class="desc-text">Lorem ipsum dolor sit amet</span>
+                                <span class="desc-text">Regular prompts for your paraplanners</span>
                             </div>
                         </div>
                         <!-- end work -->
