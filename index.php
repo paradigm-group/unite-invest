@@ -201,8 +201,8 @@
                     <!-- begin col-3 -->
                     <div class="col-md-3 col-sm-3 milestone-col">
                         <div class="milestone">
-                            <div class="number" data-animation="true" data-animation-type="number" data-final-number="1292">1,292</div>
-                            <div class="title">Themes & Template</div>
+                            <div class="number" data-animation="true" data-animation-type="number" data-final-number="3.5">£3.5m</div>
+                            <div class="title">Assets under Management</div>
                         </div>
                     </div>
                     <!-- end col-3 -->
