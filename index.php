@@ -527,7 +527,7 @@
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Service Standard Compliance</span>
-                                <span class="desc-text">Configured to track your complete client bank.</span>
+                                <span class="desc-text">Configured to track your client bank.</span>
                             </div>
                         </div>
                         <!-- end work -->
