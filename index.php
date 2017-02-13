@@ -55,7 +55,7 @@
                 <div class="collapse navbar-collapse" id="header-navbar">
                     <ul class="nav navbar-nav navbar-right">
                         <li>
-                            <a href="#home" data-click="scroll-to-target" data-toggle="dropdown">HOME <b class="caret"></b></a>
+                            <a href="#home" data-click="scroll-to-target" >HOME</a>
                             <!-- ul class="dropdown-menu dropdown-menu-left animated fadeInDown">
                                 <li><a href="index.html">Page with Transparent Header</a></li>
                                 <li><a href="index_inverse_header.html">Page with Inverse Header</a></li>
