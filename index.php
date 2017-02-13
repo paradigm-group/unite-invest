@@ -201,7 +201,7 @@
                     <!-- begin col-3 -->
                     <div class="col-md-3 col-sm-3 milestone-col">
                         <div class="milestone">
-                            <div class="number" data-animation="true" data-animation-type="number" data-final-number="3.5">£3.5m</div>
+                            <div class="number" data-animation="true" data-animation-type="number" data-final-number="3513036168">£3,513,036,168</div>
                             <div class="title">Assets under Management</div>
                         </div>
                     </div>
