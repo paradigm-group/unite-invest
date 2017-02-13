@@ -154,14 +154,14 @@
                         <div class="skills">
                             <div class="skills-name">Discretionary Management</div>
                             <div class="progress progress-striped">
-                                <div class="progress-bar progress-bar-success" style="width: 50%">
-                                    <span class="progress-number">50%</span>
+                                <div class="progress-bar progress-bar-success" style="width: 60%">
+                                    <span class="progress-number">60%</span>
                                 </div>
                             </div>
                             <div class="skills-name">Custodianship</div>
                             <div class="progress progress-striped">
-                                <div class="progress-bar progress-bar-success" style="width: 20%">
-                                    <span class="progress-number">20%</span>
+                                <div class="progress-bar progress-bar-success" style="width: 40%">
+                                    <span class="progress-number">40%</span>
                                 </div>
                             </div>
                             <div class="skills-name">Technology</div>
