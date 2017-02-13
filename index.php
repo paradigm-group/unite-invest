@@ -478,7 +478,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/work-1.jpg" alt="Work 1" /></a>
+                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/partners.png" alt="Partners" /></a>
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Best of breed partners</span>
