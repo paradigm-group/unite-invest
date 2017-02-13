@@ -572,11 +572,11 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/work-6.jpg" alt="Work 6" /></a>
+                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/information.png" alt="Information" /></a>
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Investment Information</span>
-                                <span class="desc-text">Lorem ipsum dolor sit amet</span>
+                                <span class="desc-text">We pride ourselves in educating your team </span>
                             </div>
                         </div>
                         <!-- end work -->
@@ -587,11 +587,11 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/work-8.jpg" alt="Work 8" /></a>
+                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/planning.png" alt="Planning" /></a>
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Financial Planning</span>
-                                <span class="desc-text">Lorem ipsum dolor sit amet</span>
+                                <span class="desc-text">Helping you generate new business ideas</span>
                             </div>
                         </div>
                         <!-- end work -->
