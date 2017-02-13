@@ -497,7 +497,7 @@
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Reports configured to your brand</span>
-                                <span class="desc-text">Defining your services, standards and style.</span>
+                                <span class="desc-text">Defined to your services, standards &amp; style.</span>
                             </div>
                         </div>
                         <!-- end work -->
@@ -508,11 +508,11 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/work-5.jpg" alt="Work 5" /></a>
+                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/dashboard.png" alt="Dashboard" /></a>
                             </div>
                             <div class="desc">
-                                <span class="desc-title">Vestibulum et erat ornare</span>
-                                <span class="desc-text">Lorem ipsum dolor sit amet</span>
+                                <span class="desc-title">Our Dashboard</span>
+                                <span class="desc-text">All you require to run client recommendations &amp; reviews</span>
                             </div>
                         </div>
                         <!-- end work -->
