@@ -209,24 +209,24 @@
                     <!-- begin col-3 -->
                     <div class="col-md-3 col-sm-3 milestone-col">
                         <div class="milestone">
-                            <div class="number" data-animation="true" data-animation-type="number" data-final-number="9039">9,039</div>
-                            <div class="title">Registered Members</div>
+                            <div class="number" data-animation="true" data-animation-type="number" data-final-number="37000">37,000</div>
+                            <div class="title">Client Accounts</div>
                         </div>
                     </div>
                     <!-- end col-3 -->
                     <!-- begin col-3 -->
                     <div class="col-md-3 col-sm-3 milestone-col">
                         <div class="milestone">
-                            <div class="number" data-animation="true" data-animation-type="number" data-final-number="89291">89,291</div>
-                            <div class="title">Items Sold</div>
+                            <div class="number" data-animation="true" data-animation-type="number" data-final-number="36">36</div>
+                            <div class="title">Different Models</div>
                         </div>
                     </div>
                     <!-- end col-3 -->
                     <!-- begin col-3 -->
                     <div class="col-md-3 col-sm-3 milestone-col">
                         <div class="milestone">
-                            <div class="number" data-animation="true" data-animation-type="number" data-final-number="129">129</div>
-                            <div class="title">Theme Authors</div>
+                            <div class="number" data-animation="true" data-animation-type="number" data-final-number="7657">7657</div>
+                            <div class="title">Libert SIPP Clients</div>
                         </div>
                     </div>
                     <!-- end col-3 -->
