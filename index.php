@@ -512,7 +512,7 @@
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Our Dashboard</span>
-                                <span class="desc-text">All you require to run client reviews</span>
+                                <span class="desc-text">All you require to run client reviews.</span>
                             </div>
                         </div>
                         <!-- end work -->
@@ -523,11 +523,11 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/work-7.jpg" alt="Work 7" /></a>
+                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/standards" alt="Standards" /></a>
                             </div>
                             <div class="desc">
-                                <span class="desc-title">Sed vitae mollis magna</span>
-                                <span class="desc-text">Lorem ipsum dolor sit amet</span>
+                                <span class="desc-title">Service Standard Compliance</span>
+                                <span class="desc-text">Configured to track your complete client bank.</span>
                             </div>
                         </div>
                         <!-- end work -->
