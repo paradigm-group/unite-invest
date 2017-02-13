@@ -467,10 +467,9 @@
         <div id="work" class="content" data-scrollview="true">
             <!-- begin container -->
             <div class="container" data-animation="true" data-animation-type="fadeInDown">
-                <h2 class="content-title">Our Latest Work</h2>
+                <h2 class="content-title">Our Unique Services</h2>
                 <p class="content-desc">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur eros dolor,<br />
-                    sed bibendum turpis luctus eget
+                    We have combined some unique services to enable you to run an efficient financial planning practice:
                 </p>
                 <!-- begin row -->
                 <div class="row row-space-10">
@@ -482,8 +481,8 @@
                                 <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/work-1.jpg" alt="Work 1" /></a>
                             </div>
                             <div class="desc">
-                                <span class="desc-title">Aliquam molestie</span>
-                                <span class="desc-text">Lorem ipsum dolor sit amet</span>
+                                <span class="desc-title">Best of breed partners</span>
+                                <span class="desc-text">We feed their services into our technology to drive your financial planning processes.</span>
                             </div>
                         </div>
                         <!-- end work -->
