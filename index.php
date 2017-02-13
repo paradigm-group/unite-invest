@@ -482,7 +482,7 @@
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Best of breed partners</span>
-                                <span class="desc-text">We feed their services into our technology to drive your financial planning processes.</span>
+                                <span class="desc-text">We feed their services into our technology.</span>
                             </div>
                         </div>
                         <!-- end work -->
