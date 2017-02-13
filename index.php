@@ -22,6 +22,7 @@
 	<link href="/wp-content/themes/unite-invest/assets/css/style.min.css" rel="stylesheet" />
 	<link href="/wp-content/themes/unite-invest/assets/css/style-responsive.min.css" rel="stylesheet" />
 	<link href="/wp-content/themes/unite-invest/assets/css/theme/default.css" id="theme" rel="stylesheet" />
+    <link href="/wp-content/themes/unite-invest/favicon.png" rel="icon">
 	<!-- ================== END BASE CSS STYLE ================== -->
 	
 	<!-- ================== BEGIN BASE JS ================== -->
