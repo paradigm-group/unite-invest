@@ -546,7 +546,7 @@
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Recommendations Made Easy</span>
-                                <span class="desc-text">A few short forms and you're ready to go</span>
+                                <span class="desc-text">A few short forms and you're ready to go.</span>
                             </div>
                         </div>
                         <!-- end work -->
@@ -561,7 +561,7 @@
                             </div>
                             <div class="desc">
                                 <span class="desc-title">One click client reviews</span>
-                                <span class="desc-text">Regular prompts for your paraplanners</span>
+                                <span class="desc-text">Regular prompts for your paraplanners.</span>
                             </div>
                         </div>
                         <!-- end work -->
@@ -576,7 +576,7 @@
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Investment Information</span>
-                                <span class="desc-text">We pride ourselves in educating your team </span>
+                                <span class="desc-text">We pride ourselves in educating your team.</span>
                             </div>
                         </div>
                         <!-- end work -->
@@ -591,7 +591,7 @@
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Financial Planning</span>
-                                <span class="desc-text">Helping you generate new business ideas</span>
+                                <span class="desc-text">Helping you generate new business ideas.</span>
                             </div>
                         </div>
                         <!-- end work -->
