@@ -199,7 +199,7 @@
                     <div class="col-md-3 col-sm-3 milestone-col">
                         <div class="milestone">
                             <div class="number" data-animation="true" data-animation-type="number" data-final-number="3513036168">	&pound;3,513,036,168</div>
-                            <div class="title">&pound; Assets under Management</div>
+                            <div class="title">(&pound;) Assets under Management</div>
                         </div>
                     </div>
                     <!-- end col-3 -->
