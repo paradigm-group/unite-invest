@@ -90,7 +90,7 @@
                 <h1>Welcome to Unite Invest</h1>
                 <h3>Our Difference Is You</h3>
                 <p>
-                    We help you create a compelling investment proposition taking the work our of client recommendations and reviews by integrating a set of services.
+                    Utilising the disciplines of Discretionary Investment Management, Technology and Financial Planning to support your service delivery.
                 </p>
                 <a href="#" class="btn btn-theme">Explore More</a> <a href="#" class="btn btn-outline">Invest Now</a>
             </div>
@@ -104,8 +104,7 @@
             <div class="container" data-animation="true" data-animation-type="fadeInDown">
                 <h2 class="content-title">About Us</h2>
                 <p class="content-desc">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur eros dolor,<br />
-                    sed bibendum turpis luctus eget
+                    We help you create a compelling investment proposition taking the work our of client recommendations and reviews by integrating a set of services.
                 </p>
                 <!-- begin row -->
                 <div class="row">
@@ -428,18 +427,18 @@
         <!-- end #about -->
         
         <!-- beign #action-box -->
-        <!-- div id="action-box" class="content has-bg" data-scrollview="true">
+        <div id="action-box" class="content has-bg" data-scrollview="true">
             <!-- begin content-bg -->
-            <!-- div class="content-bg">
+            <div class="content-bg">
                 <img src="/wp-content/themes/unite-invest/assets/img/action-bg.jpg" alt="Action" />
             </div>
             <!-- end content-bg -->
             <!-- begin container -->
-            <!-- div class="container" data-animation="true" data-animation-type="fadeInRight">
+            <div class="container" data-animation="true" data-animation-type="fadeInRight">
                 <!-- begin row -->
-                <!-- div class="row action-box">
+                <div class="row action-box">
                     <!-- begin col-9 -->
-                    <!-- div class="col-md-9 col-sm-9">
+                    <div class="col-md-9 col-sm-9">
                         <div class="icon-large text-theme">
                             <i class="fa fa-binoculars"></i>
                         </div> 
@@ -450,15 +449,15 @@
                     </div>
                     <!-- end col-9 -->
                     <!-- begin col-3 -->
-                    <!-- div class="col-md-3 col-sm-3">
+                    <div class="col-md-3 col-sm-3">
                         <a href="#" class="btn btn-outline btn-block">Live Preview</a>
                     </div>
                     <!-- end col-3 -->
-                <!-- /div>
+                </div>
                 <!-- end row -->
-            <!-- /div>
+            </div>
             <!-- end container -->
-        <!--/div>
+        </div>
         <!-- end #action-box -->
         
         <!-- begin #work -->
