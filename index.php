@@ -87,7 +87,7 @@
             <!-- end content-bg -->
             <!-- begin container -->
             <div class="container home-content">
-                <h1>Welcome to Unite Invest</h1>
+                <h1>Welcome to Unite</h1>
                 <h3>Our Difference Is You</h3>
                 <p>
                     Utilising the disciplines of Discretionary Investment Management, Technology and Financial Planning to support your service delivery.
