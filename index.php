@@ -240,8 +240,7 @@
             <div class="container">
                 <h2 class="content-title">Our Team</h2>
                 <p class="content-desc">
-                    Phasellus suscipit nisi hendrerit metus pharetra dignissim. Nullam nunc ante, viverra quis<br /> 
-                    ex non, porttitor iaculis nisi.
+                    Dedicated industry experts with a wealth of knowledge and experience.
                 </p>
                 <!-- begin row -->
                 <div class="row">
@@ -258,7 +257,7 @@
                                 <p>Lothar heads the team that manage client portfolios and brief your advisers and clients of their sucess.</p>
                                 <div class="social">
                                     <a href="#"><i class="fa fa-facebook fa-lg fa-fw"></i></a>
-                                    <a href="#"><i class="fa fa-twitter fa-lg fa-fw"></i></a>
+                                    <a href="https://twitter.com/TattonIM"><i class="fa fa-twitter fa-lg fa-fw"></i></a>
                                     <a href="#"><i class="fa fa-google-plus fa-lg fa-fw"></i></a>
                                 </div>
                             </div>                     
@@ -328,10 +327,9 @@
                 <div class="row">
                     <!-- begin col-12 -->
                     <div class="col-md-12 quote">
-                        <i class="fa fa-quote-left"></i> Passion leads to design, design leads to performance, <br />
-                        performance leads to <span class="text-theme">success</span>!  
+                        <i class="fa fa-quote-left"></i>
+                            Modern Wealth Management, Your Way.
                         <i class="fa fa-quote-right"></i>
-                        <small>Sean Themes, Developer Teams in Malaysia</small>
                     </div>
                     <!-- end col-12 -->
                 </div>
@@ -380,7 +378,7 @@
                             <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-file"></i></div>
                             <div class="info">
                                 <h4 class="title">Documentation</h4>
-                                <p class="desc">Ut vel laoreet tortor. Donec venenatis ex velit, eget bibendum purus accumsan cursus. Curabitur pulvinar iaculis diam.</p>
+                                <p class="desc">Easily accessible documentation.</p>
                             </div>
                         </div>
                     </div>
@@ -395,7 +393,7 @@
                             <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-code"></i></div>
                             <div class="info">
                                 <h4 class="title">Configured for you</h4>
-                                <p class="desc">Aenean et elementum dui. Aenean massa enim, suscipit ut molestie quis, pretium sed orci. Ut faucibus egestas mattis.</p>
+                                <p class="desc">Your Unite portal can be configured for your needs and requirements.</p>
                             </div>
                         </div>
                     </div>
@@ -406,7 +404,7 @@
                             <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-shopping-cart"></i></div>
                             <div class="info">
                                 <h4 class="title">Online only</h4>
-                                <p class="desc">Quisque gravida metus in sollicitudin feugiat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+                                <p class="desc">Unite is an online only service.</p>
                             </div>
                         </div>
                     </div>
@@ -417,7 +415,7 @@
                             <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-heart"></i></div>
                             <div class="info">
                                 <h4 class="title">Free Support</h4>
-                                <p class="desc">Integer consectetur, massa id mattis tincidunt, sapien erat malesuada turpis, nec vehicula lacus felis nec libero. Fusce non lorem nisl.</p>
+                                <p class="desc">Support can be accessed via&hellip; for no extra charge</p>
                             </div>
                         </div>
                     </div>
@@ -673,8 +671,7 @@
             <div class="container">
                 <h2 class="content-title">Our Price</h2>
                 <p class="content-desc">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur eros dolor,<br />
-                    sed bibendum turpis luctus eget
+                    View our Transparent &amp; Competitive fee structure
                 </p>
                 <!-- begin pricing-table -->
                 <ul class="pricing-table col-4">
@@ -695,7 +692,7 @@
                                 <li>24/7 Email support</li>
                             </ul>
                             <div class="footer">
-                                <a href="#" class="btn btn-inverse btn-block">Buy Now</a>
+                                <a href="#" class="btn btn-inverse btn-block">Get Started</a>
                             </div>
                         </div>
                     </li>
@@ -717,7 +714,7 @@
                                 <li>24/7 Email support</li>
                             </ul>
                             <div class="footer">
-                                <a href="#" class="btn btn-inverse btn-block">Buy Now</a>
+                                <a href="#" class="btn btn-inverse btn-block">Get Started</a>
                             </div>
                         </div>
                     </li>
@@ -739,7 +736,7 @@
                                 <li>24/7 Email support</li>
                             </ul>
                             <div class="footer">
-                                <a href="#" class="btn btn-theme btn-block">Buy Now</a>
+                                <a href="#" class="btn btn-theme btn-block">Get Started</a>
                             </div>
                         </div>
                     </li>
@@ -760,7 +757,7 @@
                                 <li>24/7 Email support</li>
                             </ul>
                             <div class="footer">
-                                <a href="#" class="btn btn-inverse btn-block">Buy Now</a>
+                                <a href="#" class="btn btn-inverse btn-block">Get Started</a>
                             </div>
                         </div>
                     </li>
@@ -783,19 +780,17 @@
                 <div class="row">
                     <!-- begin col-6 -->
                     <div class="col-md-6" data-animation="true" data-animation-type="fadeInLeft">
-                        <h3>If you have a project you would like to discuss, get in touch with us.</h3>
+                        <h3>Discover what Unite Invest can offer your business, speak with a team member today!</h3>
                         <p>
-                            Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu pulvinar risus, vitae facilisis libero dolor a purus.
-                        </p>
-                        <p>
-                            <strong>SeanTheme Studio, Inc</strong><br />
-                            795 Folsom Ave, Suite 600<br />
-                            San Francisco, CA 94107<br />
-                            P: (123) 456-7890<br />
+                            <strong>Paradigm House,</strong><br />
+                            Brooke Court,<br />
+                            Wilmslow,<br />
+                            Cheshire,<br />
+                            SK9 3ND<br />
                         </p>
                         <p>
                             <span class="phone">+11 (0) 123 456 78</span><br />
-                            <a href="mailto:hello@emailaddress.com">seanthemes@support.com</a>
+                            <a href="">enquiries@uniteinvest.co.uk</a>
                         </p>
                     </div>
                     <!-- end col-6 -->
