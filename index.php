@@ -44,9 +44,8 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a href="http://www.uniteinvest.co.uk/" class="navbar-brand">
-                        <span class="brand-logo"></span>
                         <span class="brand-text">
-                            <span class="text-theme">Unite</span>
+                            <span class="text-theme"><i class="fa fa-diamond"></i>  Unite</span>
                         </span>
                     </a>
                 </div>
