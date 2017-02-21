@@ -373,7 +373,7 @@
                     <!-- begin col-4 -->
                     <div class="col-md-4 col-sm-4">
                         <div class="service">
-                            <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-files-0"></i></div>
+                            <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-files-o"></i></div>
                             <div class="info">
                                 <h4 class="title">Documentation</h4>
                                 <p class="desc">Easily accessible documentation.</p>
