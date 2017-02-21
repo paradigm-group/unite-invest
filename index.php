@@ -66,7 +66,7 @@
                         <li><a href="#about" data-click="scroll-to-target">ABOUT</a></li>
                         <li><a href="#team" data-click="scroll-to-target">TEAM</a></li>
                         <li><a href="#service" data-click="scroll-to-target">SERVICES</a></li>
-                        <li><a href="#work" data-click="scroll-to-target">WORK</a></li>
+                        <li><a href="#work" data-click="scroll-to-target">PORTAL</a></li>
                         <li><a href="#client" data-click="scroll-to-target">CLIENT</a></li>
                         <li><a href="#pricing" data-click="scroll-to-target">PRICING</a></li>
                         <li><a href="#contact" data-click="scroll-to-target">CONTACT</a></li>
@@ -465,7 +465,7 @@
         <div id="work" class="content bg-silver" data-scrollview="true">
             <!-- begin container -->
             <div class="container" data-animation="true" data-animation-type="fadeInDown">
-                <h2 class="content-title">Our Unique Services</h2>
+                <h2 class="content-title">Our Client Service Portal</h2>
                 <p class="content-desc">
                     We have combined some unique services to enable you to run an efficient financial planning practice:
                 </p>
