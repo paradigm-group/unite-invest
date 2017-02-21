@@ -449,7 +449,7 @@
                     <!-- end col-9 -->
                     <!-- begin col-3 -->
                     <div class="col-md-3 col-sm-3">
-                        <a href="#contact" class="btn btn-outline btn-block">Live Demo</a>
+                        <a href="#contact" data-click="scroll-to-target" class="btn btn-outline btn-block">Live Demo</a>
                     </div>
                     <!-- end col-3 -->
                 </div>
