@@ -252,7 +252,7 @@
                             <div class="info">
                                 <h3 class="name">Lothar Mentel</h3>
                                 <div class="title text-theme">CHIEF INVESTMENT OFFICER - TATTON</div>
-                                <p>Lothar heads the team that manage client portfolios and brief your advisers and clients of their sucess.</p>
+                                <p>Lothar heads the team that manage client portfolios and brief your advisers and clients of their success.</p>
                                 <div class="social">
                                     <a href="#"><i class="fa fa-facebook fa-lg fa-fw"></i></a>
                                     <a href="https://twitter.com/TattonIM"><i class="fa fa-twitter fa-lg fa-fw"></i></a>
