@@ -221,7 +221,7 @@
                     <div class="col-md-3 col-sm-3 milestone-col">
                         <div class="milestone">
                             <div class="number" data-animation="true" data-animation-type="number" data-final-number="7657">7657</div>
-                            <div class="title">Libert SIPP Clients</div>
+                            <div class="title">Liberty SIPP Clients</div>
                         </div>
                     </div>
                     <!-- end col-3 -->
@@ -815,11 +815,11 @@
                     Our Difference is You
                 </p>
                 <p class="social-list">
-                    <a href="#"><i class="fa fa-facebook fa-fw"></i></a>
-                    <a href="#"><i class="fa fa-instagram fa-fw"></i></a>
+                    <!--a href="#"><i class="fa fa-facebook fa-fw"></i></a>
+                    <a href="#"><i class="fa fa-instagram fa-fw"></i></a-->
                     <a href="https://twitter.com/unite_invest"><i class="fa fa-twitter fa-fw"></i></a>
-                    <a href="#"><i class="fa fa-google-plus fa-fw"></i></a>
-                    <a href="#"><i class="fa fa-dribbble fa-fw"></i></a>
+                    <!--a href="#"><i class="fa fa-google-plus fa-fw"></i></a>
+                    <a href="#"><i class="fa fa-dribbble fa-fw"></i></a-->
                 </p>
             </div>
         </div>
