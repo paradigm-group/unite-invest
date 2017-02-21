@@ -92,7 +92,7 @@
                 <p>
                     Utilising the disciplines of Discretionary Investment Management, Technology and Financial Planning to support your service delivery.
                 </p>
-                <a href="#" class="btn btn-theme">Explore More</a> <a href="#" class="btn btn-outline">Invest Now</a>
+                <a href="#about" class="btn btn-theme">Explore More</a> <a href="#contact" class="btn btn-outline">Register Now</a>
             </div>
             <!-- end container -->
         </div>
@@ -442,15 +442,15 @@
                         <div class="icon-large text-theme">
                             <i class="fa fa-binoculars"></i>
                         </div> 
-                        <h3>CHECK OUT OUR ADMIN THEME!</h3>
+                        <h3>Check out our services!</h3>
                         <p>
-                           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus magna eu lacinia eleifend.
+                           If you would like to see a live demo of our software please contact us.
                         </p>
                     </div>
                     <!-- end col-9 -->
                     <!-- begin col-3 -->
                     <div class="col-md-3 col-sm-3">
-                        <a href="#" class="btn btn-outline btn-block">Live Preview</a>
+                        <a href="#contact" class="btn btn-outline btn-block">Live Demo</a>
                     </div>
                     <!-- end col-3 -->
                 </div>
@@ -772,8 +772,7 @@
             <div class="container">
                 <h2 class="content-title">Contact Us</h2>
                 <p class="content-desc">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur eros dolor,<br />
-                    sed bibendum turpis luctus eget
+                    If you complete this form one of our relationship managers will contact you to discuss your business requirements.
                 </p>
                 <!-- begin row -->
                 <div class="row">
