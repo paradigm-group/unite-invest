@@ -91,7 +91,7 @@
                 <p>
                     Utilising the disciplines of Discretionary Investment Management, Technology and Financial Planning to support your service delivery.
                 </p>
-                <a href="#about" class="btn btn-theme">Explore More</a> <a href="#contact" class="btn btn-outline">Register Now</a>
+                <a href="#about" class="btn btn-theme" data-click="scroll-to-target">Explore More</a> <a href="#contact" class="btn btn-outline" data-click="scroll-to-target">Register Now</a>
             </div>
             <!-- end container -->
         </div>
@@ -786,8 +786,8 @@
                             SK9 3ND<br />
                         </p>
                         <p>
-                            <span class="phone">+11 (0) 123 456 78</span><br />
-                            <a href="">enquiries@uniteinvest.co.uk</a>
+                            <span class="phone">0161 486 4890</span><br />
+                            <a href="mailto:enquiries@uniteinvest.co.uk">enquiries@uniteinvest.co.uk</a>
                         </p>
                     </div>
                     <!-- end col-6 -->
