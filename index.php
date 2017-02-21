@@ -684,15 +684,14 @@
                                 </div>
                             </div>
                             <ul class="features">
-                                <li>1GB Storage</li>
-                                <li>2 Clients</li>
-                                <li>5 Active Projects</li>
-                                <li>5 Colors</li>
-                                <li>Free Goodies</li>
-                                <li>24/7 Email support</li>
+                                <li>Your own portal web address</li>
+                                <li>Configuration of reports</li>
+                                <li>Unlimited document storage</li>
+                                <li>Cloud based technology</li>
+                                <li>Link to financial planning tools</li>
                             </ul>
                             <div class="footer">
-                                <a href="#" class="btn btn-inverse btn-block">Get Started</a>
+                                <a href="#contact" data-click="scroll-to-target" class="btn btn-inverse btn-block">Get Started</a>
                             </div>
                         </div>
                     </li>
@@ -701,20 +700,20 @@
                             <h3>GIA</h3>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span class="price-number">$9.99</span>
-                                    <span class="price-tenure">per month</span>
+                                    <span class="price-number">0.4%</span>
+                                    <span class="price-tenure">per annum</span>
                                 </div>
                             </div>
                             <ul class="features">
-                                <li>2GB Storage</li>
-                                <li>5 Clients</li>
-                                <li>10 Active Projects</li>
-                                <li>10 Colors</li>
-                                <li>Free Goodies</li>
-                                <li>24/7 Email support</li>
+                                <li>Inclusive of DFM Fee</li>
+                                <li>Inclusive of tax wrapper fees</li>
+                                <li>7 Risk Graded Portfolio Groups</li>
+                                <li>36 Client Portfolios covering Income, Growth, Active, Passive, Ethical</li>
+                                <li>Inclusive of VAT</li>
+                                <li>No initial fees</li>
                             </ul>
                             <div class="footer">
-                                <a href="#" class="btn btn-inverse btn-block">Get Started</a>
+                                <a href="#contact" data-click="scroll-to-target" class="btn btn-inverse btn-block">Get Started</a>
                             </div>
                         </div>
                     </li>
@@ -723,20 +722,20 @@
                             <h3>ISA</h3>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span class="price-number">$19.99</span>
-                                    <span class="price-tenure">per month</span>
+                                    <span class="price-number">0.4%</span>
+                                    <span class="price-tenure">per annum</span>
                                 </div>
                             </div>
                             <ul class="features">
-                                <li>5GB Storage</li>
-                                <li>10 Clients</li>
-                                <li>20 Active Projects</li>
-                                <li>20 Colors</li>
-                                <li>Free Goodies</li>
-                                <li>24/7 Email support</li>
+                                <li>Inclusive of DFM Fee</li>
+                                <li>Inclusive of tax wrapper fees</li>
+                                <li>7 Risk Graded Portfolio Groups</li>
+                                <li>36 Client Portfolios covering Income, Growth, Active, Passive, Ethical</li>
+                                <li>Inclusive of VAT</li>
+                                <li>No initial fees</li>
                             </ul>
                             <div class="footer">
-                                <a href="#" class="btn btn-theme btn-block">Get Started</a>
+                                <a href="#contact" data-click="scroll-to-target" class="btn btn-theme btn-block">Get Started</a>
                             </div>
                         </div>
                     </li>
@@ -745,19 +744,20 @@
                             <h3>SIPP</h3>
                             <div class="price">
                                 <div class="price-figure">
-                                    <span class="price-number">$999</span>
+                                    <span class="price-number">0.5%</span>
+                                    <span class="price-tenure">per annum</span>
                                 </div>
                             </div>
                             <ul class="features">
-                                <li>Unlimited Storage</li>
-                                <li>Unlimited Clients</li>
-                                <li>Unlimited Projects</li>
-                                <li>Unlimited Colors</li>
-                                <li>Free Goodies</li>
-                                <li>24/7 Email support</li>
+                                <li>Inclusive of DFM Fee</li>
+                                <li>Inclusive of tax wrapper fees</li>
+                                <li>7 Risk Graded Portfolio Groups</li>
+                                <li>36 Client Portfolios covering Income, Growth, Active, Passive, Ethical</li>
+                                <li>Inclusive of VAT</li>
+                                <li>No initial fees</li>
                             </ul>
                             <div class="footer">
-                                <a href="#" class="btn btn-inverse btn-block">Get Started</a>
+                                <a href="#contact" data-click="scroll-to-target" class="btn btn-inverse btn-block">Get Started</a>
                             </div>
                         </div>
                     </li>
