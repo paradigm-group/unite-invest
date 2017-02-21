@@ -132,11 +132,11 @@
                             </div>
                             <div class="author">
                                 <div class="image">
-                                    <img src="/wp-content/themes/unite-invest/assets/img/user-1.jpg" alt="Sean Ngu" />
+                                <img src="http://www.uniteinvest.co.uk/wp-content/uploads/2017/01/Ryan-01-1-e1486722536179.jpg" alt="Ryan Seaton" />
                                 </div>
                                 <div class="info">
-                                    Sean Ngu
-                                    <small>Front End Developer</small>
+                                    Ryan Seaton
+                                    <small>Business Development Manager</small>
                                 </div>
                             </div>
                         </div>
