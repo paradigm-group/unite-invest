@@ -351,7 +351,7 @@
                     <!-- begin col-4 -->
                     <div class="col-md-4 col-sm-4">
                         <div class="service">
-                            <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-cog"></i></div>
+                            <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-users"></i></div>
                             <div class="info">
                                 <h4 class="title">Your client service portal</h4>
                                 <p class="desc">Duis in lorem placerat, iaculis nisi vitae, ultrices tortor. Vestibulum molestie ipsum nulla. Maecenas nec hendrerit eros, sit amet maximus leo.</p>
@@ -362,7 +362,7 @@
                     <!-- begin col-4 -->
                     <div class="col-md-4 col-sm-4">
                         <div class="service">
-                            <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-paint-brush"></i></div>
+                            <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-bar-chart"></i></div>
                             <div class="info">
                                 <h4 class="title">Investment portfolios</h4>
                                 <p class="desc">Etiam nulla turpis, gravida et orci ac, viverra commodo ipsum. Donec nec mauris faucibus, congue nisi sit amet, lobortis arcu.</p>
@@ -373,7 +373,7 @@
                     <!-- begin col-4 -->
                     <div class="col-md-4 col-sm-4">
                         <div class="service">
-                            <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-file"></i></div>
+                            <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-files-0"></i></div>
                             <div class="info">
                                 <h4 class="title">Documentation</h4>
                                 <p class="desc">Easily accessible documentation.</p>
@@ -388,7 +388,7 @@
                     <!-- begin col-4 -->
                     <div class="col-md-4 col-sm-4">
                         <div class="service">
-                            <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-code"></i></div>
+                            <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-cog"></i></div>
                             <div class="info">
                                 <h4 class="title">Configured for you</h4>
                                 <p class="desc">Your Unite portal can be configured for your needs and requirements.</p>
@@ -399,7 +399,7 @@
                     <!-- begin col-4 -->
                     <div class="col-md-4 col-sm-4">
                         <div class="service">
-                            <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-shopping-cart"></i></div>
+                            <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-laptop"></i></div>
                             <div class="info">
                                 <h4 class="title">Online only</h4>
                                 <p class="desc">Unite is an online only service.</p>
@@ -410,7 +410,7 @@
                     <!-- begin col-4 -->
                     <div class="col-md-4 col-sm-4">
                         <div class="service">
-                            <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-heart"></i></div>
+                            <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-search"></i></div>
                             <div class="info">
                                 <h4 class="title">Free Support</h4>
                                 <p class="desc">Support can be accessed via&hellip; for no extra charge</p>
