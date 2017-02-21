@@ -91,7 +91,7 @@
                 <p>
                     Utilising the disciplines of Discretionary Investment Management, Technology and Financial Planning to support your service delivery.
                 </p>
-                <a href="#about" class="btn btn-theme" data-click="scroll-to-target">Explore More</a> <a href="#contact" class="btn btn-outline" data-click="scroll-to-target">Register Now</a>
+                <a href="#about" data-click="scroll-to-target"class="btn btn-theme">Explore More</a> <a href="#contact" data-click="scroll-to-target" class="btn btn-outline">Register Now</a>
             </div>
             <!-- end container -->
         </div>
