@@ -103,7 +103,7 @@
             <div class="container" data-animation="true" data-animation-type="fadeInDown">
                 <h2 class="content-title">About Us</h2>
                 <p class="content-desc">
-                    Unite is a market leading technology provider that streamlines your centralized investment process.
+                    Unite is a market leading technology provider that streamlines your centralised investment process.
                 </p>
                 <!-- begin row -->
                 <div class="row">
