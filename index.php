@@ -475,7 +475,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/partners.png" alt="Partners" /></a>
+                              <img src="/wp-content/themes/unite-invest/assets/img/partners.png" alt="Partners" />
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Best of breed partners</span>
@@ -490,7 +490,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/reports.png" alt="Reports" /></a>
+                              <img src="/wp-content/themes/unite-invest/assets/img/reports.png" alt="Reports" />
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Reports configured to your brand</span>
@@ -505,7 +505,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/dashboard.png" alt="Dashboard" /></a>
+                                <img src="/wp-content/themes/unite-invest/assets/img/dashboard.png" alt="Dashboard" />
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Our Dashboard</span>
@@ -520,7 +520,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/standards" alt="Standards" /></a>
+                               <img src="/wp-content/themes/unite-invest/assets/img/standards" alt="Standards" />
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Service Standard Compliance</span>
@@ -539,7 +539,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/recommend.png" alt="Recommend" /></a>
+                                <img src="/wp-content/themes/unite-invest/assets/img/recommend.png" alt="Recommend" />
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Recommendations Made Easy</span>
@@ -554,7 +554,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/reviews.png" alt="Reviews" /></a>
+                                <img src="/wp-content/themes/unite-invest/assets/img/reviews.png" alt="Reviews" />
                             </div>
                             <div class="desc">
                                 <span class="desc-title">One click client reviews</span>
@@ -569,7 +569,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/information.png" alt="Information" /></a>
+                               <img src="/wp-content/themes/unite-invest/assets/img/information.png" alt="Information" />
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Investment Information</span>
@@ -584,7 +584,7 @@
                         <!-- begin work -->
                         <div class="work">
                             <div class="image">
-                                <a href="#"><img src="/wp-content/themes/unite-invest/assets/img/planning.png" alt="Planning" /></a>
+                               <img src="/wp-content/themes/unite-invest/assets/img/planning.png" alt="Planning" />
                             </div>
                             <div class="desc">
                                 <span class="desc-title">Financial Planning</span>
