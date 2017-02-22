@@ -103,7 +103,7 @@
             <div class="container" data-animation="true" data-animation-type="fadeInDown">
                 <h2 class="content-title">About Us</h2>
                 <p class="content-desc">
-                    We help you create a compelling investment proposition taking the work our of client recommendations and reviews by integrating a set of services.
+                    Unite is a market leading technology provider that streamlines your centralized investment process.
                 </p>
                 <!-- begin row -->
                 <div class="row">
@@ -126,7 +126,7 @@
                         <div class="about-author">
                             <div class="quote bg-silver">
                                 <i class="fa fa-quote-left"></i>
-                                    <h3>To systemise your processes, and pass the risk and hassle of building portfolios and maintaining them to a third party and provide you with all the tools you require to recommend and review client portfolios.</h3>
+                                    <h3>We utilise technology, and pass the risk and hassle of building portfolios and maintaining them to a third party whilst providing you with all the tools you require to recommend and review client portfolios.</h3>
                                 <i class="fa fa-quote-right"></i>
                             </div>
                             <div class="author">
@@ -343,8 +343,7 @@
             <div class="container">
                 <h2 class="content-title">Our Services</h2>
                 <p class="content-desc">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur eros dolor,<br />
-                    sed bibendum turpis luctus eget
+                    Unite combines the services below to streamline your investment proposition.
                 </p>
                 <!-- begin row -->
                 <div class="row">
@@ -354,7 +353,7 @@
                             <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-users"></i></div>
                             <div class="info">
                                 <h4 class="title">Your client service portal</h4>
-                                <p class="desc">Duis in lorem placerat, iaculis nisi vitae, ultrices tortor. Vestibulum molestie ipsum nulla. Maecenas nec hendrerit eros, sit amet maximus leo.</p>
+                                <p class="desc">You have access to your own branded portal to run client’s applications and reviews.</p>
                             </div>
                         </div>
                     </div>
@@ -365,7 +364,7 @@
                             <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-bar-chart"></i></div>
                             <div class="info">
                                 <h4 class="title">Investment portfolios</h4>
-                                <p class="desc">Etiam nulla turpis, gravida et orci ac, viverra commodo ipsum. Donec nec mauris faucibus, congue nisi sit amet, lobortis arcu.</p>
+                                <p class="desc">An award winning managed portfolio service provided by Tatton Investment Management Ltd..</p>
                             </div>
                         </div>
                     </div>
@@ -391,7 +390,9 @@
                             <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-cog"></i></div>
                             <div class="info">
                                 <h4 class="title">Configured for you</h4>
-                                <p class="desc">Your Unite portal can be configured for your needs and requirements.</p>
+                                <p class="desc">
+                                    Your Unite portal can be configured for your needs and requirements
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -402,7 +403,7 @@
                             <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-laptop"></i></div>
                             <div class="info">
                                 <h4 class="title">Online only</h4>
-                                <p class="desc">Unite is an online only service.</p>
+                                <p class="desc">Unite is an online only service with access to market leading custodianship.</p>
                             </div>
                         </div>
                     </div>
@@ -413,7 +414,7 @@
                             <div class="icon bg-theme" data-animation="true" data-animation-type="bounceIn"><i class="fa fa-search"></i></div>
                             <div class="info">
                                 <h4 class="title">Free Support</h4>
-                                <p class="desc">Support can be accessed via&hellip; for no extra charge</p>
+                                <p class="desc">You have full ongoing support from our technology and relationship team.</p>
                             </div>
                         </div>
                     </div>
